@@ -1,0 +1,25 @@
+Week 1 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Massachusetts...21...Boston College...55
+Spread...Boston College...-18...3000.0...Win...3000.0
+
+
+BYU...28...Arizona...23
+Spread...Arizona...-12...4000.0...Lose...-4000.0
+
+
+West Virginia...40...Tennessee...14
+Spread...West Virginia...-10...1000.0...Win...1000.0
+
+
+North Carolina...17...California...24
+Spread...California...-7.5...2000.0...Lose...-2000.0
+
+
+
+
+Final Net Money for the week: $-2000.0

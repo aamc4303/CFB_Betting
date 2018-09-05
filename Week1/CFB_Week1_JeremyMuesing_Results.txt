@@ -1,0 +1,53 @@
+Week 1 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Northwestern...31...Purdue...27
+Spread...Northwestern...+1.5...1000.0...Win...1000.0
+
+
+Syracuse...55...Western Michigan...42
+Money Line...Western Michigan...185...1111.08...Lose...-1111.08
+
+
+Army...14...Duke...34
+Spread...Duke...-13.5...1500.0...Win...1500.0
+
+
+Kent State...24...Illinois...31
+Spread...Illinois...-16.5...300.0...Lose...-300.0
+
+
+Texas State...7...Rutgers...35
+Spread...Rutgers...-16...700.0...Win...700.0
+
+
+Northern Illinois...7...Iowa...33
+Spread...Iowa...-10.5...500.0...Win...500.0
+
+
+Washington...16...Auburn...21
+Spread...Washington...+2...1000.0...Lose...-1000.0
+
+
+Mississippi...47...Texas Tech...27
+Spread...Mississippi...+2.5...370.92...Win...370.92
+
+
+West Virginia...40...Tennessee...14
+Money Line...Tennessee...300...2120.0...Lose...-2120.0
+
+
+Navy...41...Hawaii...59
+Money Line...Hawaii...340...734.12...Win...2496.008
+
+
+Virginia Tech...24...Florida State...3
+Money Line...Virginia Tech...245...663.88...Win...1626.506
+
+
+
+
+Final Net Money for the week: $3662.3540000000003

@@ -1,0 +1,73 @@
+Week 1 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Colorado State...13...Colorado...45
+Money Line...Colorado...-300.0...1000.0...Win...333.3333333333333
+
+
+Colorado State...13...Colorado...45
+Spread...Colorado...-7.5...1000.0...Win...1000.0
+
+
+Colorado State...13...Colorado...45
+Under...No Team...65.5...1000.0...Win...1000.0
+
+
+Florida Atlantic...14...Oklahoma...63
+Spread...Florida Atlantic...+21...500.0...Lose...-500.0
+
+
+Florida Atlantic...14...Oklahoma...63
+Over...No Team...69...1000.0...Win...1000.0
+
+
+Texas...29...Maryland...34
+Spread...Texas...-13...1000.0...Lose...-1000.0
+
+
+SMU...23...North Texas...46
+Money Line...SMU...165.0...250.0...Lose...-250.0
+
+
+BYU...28...Arizona...23
+Spread...Arizona...-12...500.0...Lose...-500.0
+
+
+Cincinnati...26...UCLA...17
+Money Line...UCLA...-675.0...250.0...Lose...-250.0
+
+
+Washington...16...Auburn...21
+Money Line...Washington...105.0...1000.0...Lose...-1000.0
+
+
+West Virginia...40...Tennessee...14
+Money Line...Tennessee...300.0...250.0...Lose...-250.0
+
+
+North Carolina...17...California...24
+Money Line...North Carolina...235.0...250.0...Lose...-250.0
+
+
+Washington State...41...Wyoming...19
+Spread...Washington State...-1.5...250.0...Win...250.0
+
+
+Navy...41...Hawaii...59
+Spread...Navy...-11...500.0...Lose...-500.0
+
+
+Navy...41...Hawaii...59
+Under...No Team...62.5...1000.0...Lose...-1000.0
+
+
+Miami Florida...17...LSU...33
+Money Line...LSU...150.0...250.0...Win...375.0
+
+
+
+
+Final Net Money for the week: $-1541.666666666667

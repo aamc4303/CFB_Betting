@@ -1,0 +1,41 @@
+Week 1 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Colorado State...13...Colorado...45
+Under...No Team...65.5...1000.0...Win...1000.0
+
+
+San Diego State...10...Stanford...31
+Spread...Stanford...-14...2000.0...Win...2000.0
+
+
+BYU...28...Arizona...23
+Spread...Arizona...-12...2000.0...Lose...-2000.0
+
+
+Washington...16...Auburn...21
+Spread...Washington...+2...1000.0...Lose...-1000.0
+
+
+Washington State...41...Wyoming...19
+Spread...Washington State...-1.5...1000.0...Win...1000.0
+
+
+Navy...41...Hawaii...59
+Money Line...Hawaii...340...1000.0...Win...3400.0
+
+
+Miami Florida...17...LSU...33
+Money Line...LSU...150...1000.0...Win...1500.0
+
+
+Virginia Tech...24...Florida State...3
+Over...No Team...56.5...1000.0...Lose...-1000.0
+
+
+
+
+Final Net Money for the week: $4900.0
