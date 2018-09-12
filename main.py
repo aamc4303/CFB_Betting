@@ -45,11 +45,11 @@ for N in Names:
 		Team2Score = scoresheet.loc[i*2 + 1]['Score']
 
 		# Check if the person whose excel file you're reading bet on the matchup that you're looking at. This statement checks if the person bet Money Line on the matchup
-		if bets.loc[i*2]['Bet'] > 0 or bets.loc[i*2 + 1]['Bet'] > 0:
+		if float(bets.loc[i*2]['Bet']) > 0 or float(bets.loc[i*2 + 1]['Bet']) > 0:
 			
 			# If they did bet the Money Line on this matchup, figure out which team they bet on. Don't use an if/else staement here just in case someone decided to idiotically bet Money Line on both teams
 
-			if bets.loc[i*2]['Bet'] > 0:
+			if float(bets.loc[i*2]['Bet']) > 0:
 					
 				# Get the moneyline from the excel file				
 				MoneyLine = int(bets.loc[i*2]['Money Line'])
@@ -123,7 +123,7 @@ for N in Names:
 					Statement = 'Something went wrong with the Money Line bet for' + N
 					print(Statement)
 				
-			if bets.loc[i*2 + 1]['Bet'] > 0:
+			if float(bets.loc[i*2 + 1]['Bet']) > 0:
 
 				# Get the moneyline from the excel file                         
 				MoneyLine = int(bets.loc[i*2 + 1]['Money Line'])
