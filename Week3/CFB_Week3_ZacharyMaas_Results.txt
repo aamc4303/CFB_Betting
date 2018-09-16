@@ -1,0 +1,41 @@
+Week 3 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Florida State...7...Syracuse...30
+Spread...Florida State...-3...1000.0...Lose...-1000.0
+
+
+Georgia Tech...19...Pittsburgh...24
+Money Line...Pittsburgh...165...2000.0...Win...3300.0
+
+
+LSU...22...Auburn...21
+Money Line...LSU...290...1000.0...Win...2900.0
+
+
+LSU...22...Auburn...21
+Spread...Auburn...-9.5...1000.0...Lose...-1000.0
+
+
+Colorado State...10...Florida...48
+Money Line...Colorado State...900...500.0...Lose...-500.0
+
+
+Alabama...62...Mississippi...7
+Spread...Alabama...-21...1000.0...Win...1000.0
+
+
+USC...14...Texas...37
+Money Line...USC...145...2500.0...Lose...-2500.0
+
+
+Washington...21...Utah...7
+Spread...Washington...-7...1000.0...Win...1000.0
+
+
+
+
+Final Net Money for the week: $3200.0

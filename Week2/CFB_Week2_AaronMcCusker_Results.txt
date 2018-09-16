@@ -1,0 +1,45 @@
+Week 2 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Appalachian State...45...Charlotte...9
+Spread...Appalachian State...-14...1000.0...Win...1000.0
+
+
+Air Force...27...Florida Atlantic...33
+Money Line...Air Force...302...1000.0...Lose...-1000.0
+
+
+Arizona...18...Houston...45
+Money Line...Arizona...163...1000.0...Lose...-1000.0
+
+
+Kansas...31...Central Michigan...7
+Spread...Central Michigan...-5...2000.0...Lose...-2000.0
+
+
+Georgia...41...South Carolina...17
+Money Line...South Carolina...324...500.0...Lose...-500.0
+
+
+Colorado...33...Nebraska...28
+Money Line...Colorado...163...500.0...Win...815.0
+
+
+Clemson...28...Texas AM...26
+Spread...Clemson...-12...1000.0...Lose...-1000.0
+
+
+Clemson...28...Texas AM...26
+Under...No Team...54.5...1000.0...Win...1000.0
+
+
+Arkansas...27...Colorado State...34
+Spread...Arkansas...-14...2000.0...Lose...-2000.0
+
+
+
+
+Final Net Money for the week: $-4685.0

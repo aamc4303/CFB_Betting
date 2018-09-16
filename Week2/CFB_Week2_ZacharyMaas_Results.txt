@@ -1,0 +1,41 @@
+Week 2 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Georgia Tech...38...South Florida...49
+Spread...Georgia Tech...-3...2000.0...Lose...-2000.0
+
+
+Georgia...41...South Carolina...17
+Money Line...South Carolina...324...1500.0...Lose...-1500.0
+
+
+Tulsa...21...Texas...28
+Money Line...Tulsa...1049...200.0...Lose...-200.0
+
+
+Tulsa...21...Texas...28
+Spread...Tulsa...+22.5...800.0...Win...800.0
+
+
+Penn State...51...Pittsburgh...6
+Money Line...Pittsburgh...308...1500.0...Lose...-1500.0
+
+
+Penn State...51...Pittsburgh...6
+Spread...Pittsburgh...+8.5...1000.0...Lose...-1000.0
+
+
+Michigan State...13...Arizona State...16
+Money Line...Arizona State...186...2000.0...Win...3720.0
+
+
+Rice...29...Hawaii...43
+Spread...Hawaii...-17...1000.0...Lose...-1000.0
+
+
+
+
+Final Net Money for the week: $-2680.0

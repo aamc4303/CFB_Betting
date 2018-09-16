@@ -1,0 +1,45 @@
+Week 3 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Hawaii...21...Army...28
+Spread...Army...-6.5...1329.5...Win...1329.5
+
+
+Old Dominion...25...Charlotte...28
+Spread...Charlotte...+1.5...1001.95...Win...1001.95
+
+
+Oklahoma...37...Iowa State...27
+Money Line...Iowa State...650...180.77...Lose...-180.77
+
+
+Ohio...31...Virginia...45
+Spread...Virginia...-3...1455.11...Win...1455.11
+
+
+Duke...40...Baylor...27
+Spread...Duke...+6...1581.93...Win...1581.93
+
+
+Houston...49...Texas Tech...63
+Spread...Texas Tech...+1...1879.82...Win...1879.82
+
+
+Alabama...62...Mississippi...7
+Money Line...Mississippi...900...777.78...Lose...-777.78
+
+
+Arkansas State...29...Tulsa...20
+Spread...Tulsa...+1...1232.48...Lose...-1232.48
+
+
+Fresno State...38...UCLA...14
+Spread...Fresno State...+0.5...560.66...Win...560.66
+
+
+
+
+Final Net Money for the week: $5617.9400000000005

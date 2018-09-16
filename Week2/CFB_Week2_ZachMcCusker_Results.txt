@@ -1,0 +1,25 @@
+Week 2 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Mississippi State...31...Kansas State...10
+Money Line...Mississippi State...-350...2000.0...Win...571.4285714285714
+
+
+Kansas...31...Central Michigan...7
+Over...No Team...51.5...2000.0...Lose...-2000.0
+
+
+Utah...17...Northern Illinois...6
+Money Line...Utah...-380...2000.0...Win...526.3157894736842
+
+
+Rice...29...Hawaii...43
+Spread...Hawaii...-17...4000.0...Lose...-4000.0
+
+
+
+
+Final Net Money for the week: $-4902.255639097744

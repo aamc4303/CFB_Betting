@@ -1,0 +1,33 @@
+Week 3 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Temple...35...Maryland...14
+Spread...Maryland...-16...2000.0...Lose...-2000.0
+
+
+Florida State...7...Syracuse...30
+Money Line...Syracuse...135...1000.0...Win...1350.0
+
+
+Vanderbilt...17...Notre Dame...22
+Spread...Notre Dame...-14...1000.0...Lose...-1000.0
+
+
+Boise State...21...Oklahoma State...44
+Over...No Team...64...3000.0...Win...3000.0
+
+
+Central Michigan...16...Northern Illinois...24
+Spread...Northern Illinois...-14...1000.0...Lose...-1000.0
+
+
+Ohio State...40...TCU...28
+Spread...Ohio State...-13...2000.0...Lose...-2000.0
+
+
+
+
+Final Net Money for the week: $-1650.0

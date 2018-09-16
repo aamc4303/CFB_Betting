@@ -1,0 +1,37 @@
+Week 3 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Hawaii...21...Army...28
+Spread...Hawaii...+6.5...1000.0...Lose...-1000.0
+
+
+Rutgers...14...Kansas...55
+Spread...Rutgers...+3...2500.0...Lose...-2500.0
+
+
+LSU...22...Auburn...21
+Spread...LSU...+9.5...1500.0...Win...1500.0
+
+
+Houston...49...Texas Tech...63
+Spread...Houston...-1...1500.0...Lose...-1500.0
+
+
+Oregon State...35...Nevada...37
+Spread...Nevada...-3.5...1500.0...Lose...-1500.0
+
+
+Fresno State...38...UCLA...14
+Spread...Fresno State...+0.5...1000.0...Win...1000.0
+
+
+Arizona State...21...San Diego State...28
+Spread...San Diego State...+4.5...1000.0...Win...1000.0
+
+
+
+
+Final Net Money for the week: $-3000.0
