@@ -40,12 +40,9 @@ matchup_tables = scores_soup.find_all('table', {'class':"teams"})
 
 for i in range(len(matchup_tables)):
 	
+	# Grab the matchup and score from the html file
 	matchup = matchup_tables[i].select("a")
 	score = matchup_tables[i].find_all(class_="right")
-#	print(matchup[0].text)
-#	print(score[0].text)
-#	print(matchup[2].text)
-#	print(score[2].text)
 
 	write_flag = 0
 	
@@ -61,11 +58,20 @@ for i in range(len(matchup_tables)):
 
 	if write_flag == 0:
 		Statement = matchup[0].text + "and " + matchup[2].text + " could not be matched with any teams in the worksheet"
-		print(Statement)
+#		print(Statement)
 	else:
 		Statement = matchup[0].text + "and " + matchup[2].text + " name identified and score saved"
+#		print(Statement)
+
+ScoreWorkbook.close()
+
+PopulatedSheet_holder = pandas.ExcelFile(ScoreFilename)
+PopulatedSheet = PopulatedSheet_holder.parse('Sheet1')
+
+for i in range(int(len(blanksheet)/2)):
+	if pandas.isnull(PopulatedSheet.loc[i*2]["Score"]):
+		Statement = "The matchup between " + PopulatedSheet.loc[i*2]["Matchup"] + " and " + PopulatedSheet.loc[i*2 + 1]["Matchup"] + " does not have a score!!"
 		print(Statement)
 
 
-ScoreWorkbook.close()
 
