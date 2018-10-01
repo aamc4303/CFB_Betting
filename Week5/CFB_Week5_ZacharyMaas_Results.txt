@@ -1,0 +1,17 @@
+Week 5 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Florida...13...Mississippi State...6
+Money Line...Florida...250...5000.0...Win...12500.0
+
+
+Stanford...17...Notre Dame...38
+Money Line...Stanford...190...5000.0...Lose...-5000.0
+
+
+
+
+Final Net Money for the week: $7500.0

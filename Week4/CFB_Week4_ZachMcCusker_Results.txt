@@ -1,0 +1,29 @@
+Week 4 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Florida Atlantic...36...Central Florida...56
+Over...No Team...77...2000.0...Win...2000.0
+
+
+Washington State...36...USC...39
+Over...No Team...53...2000.0...Win...2000.0
+
+
+Nevada...44...Toledo...63
+Over...No Team...68...2000.0...Win...2000.0
+
+
+Arizona State...20...Washington...27
+Over...No Team...50...2000.0...Lose...-2000.0
+
+
+Eastern Michigan...20...San Diego State...23
+Over...No Team...50.5...2000.0...Lose...-2000.0
+
+
+
+
+Final Net Money for the week: $2000.0

@@ -1,0 +1,21 @@
+Week 5 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+UCLA...16...Colorado...38
+Spread...Colorado...-8.5...4000.0...Win...4000.0
+
+
+Syracuse...23...Clemson...27
+Spread...Syracuse...+25...4000.0...Win...4000.0
+
+
+Boise State...34...Wyoming...14
+Over...No Team...47...2000.0...Win...2000.0
+
+
+
+
+Final Net Money for the week: $10000.0

@@ -1,0 +1,45 @@
+Week 4 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Pittsburgh...35...North Carolina...38
+Spread...North Carolina...+3.5...1500.0...Win...1500.0
+
+
+Stanford...38...Oregon...31
+Spread...Stanford...-2...1500.0...Win...1500.0
+
+
+Stanford...38...Oregon...31
+Over...No Team...56...1500.0...Win...1500.0
+
+
+Florida...47...Tennessee...21
+Spread...Tennessee...+4.5...1000.0...Lose...-1000.0
+
+
+Nebraska...10...Michigan...56
+Money Line...Nebraska...600...250.0...Lose...-250.0
+
+
+Texas Tech...41...Oklahoma State...17
+Over...No Team...77.5...2000.0...Lose...-2000.0
+
+
+TCU...16...Texas...31
+Over...No Team...47.5...1000.0...Lose...-1000.0
+
+
+Arizona State...20...Washington...27
+Money Line...Arizona State...600...250.0...Lose...-250.0
+
+
+Arizona State...20...Washington...27
+Spread...Washington...-17.5...1000.0...Lose...-1000.0
+
+
+
+
+Final Net Money for the week: $-1000.0

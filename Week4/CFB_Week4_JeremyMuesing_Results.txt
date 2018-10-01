@@ -1,0 +1,53 @@
+Week 4 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Michigan State...35...Indiana...21
+Spread...Michigan State...-4.5...1282.58...Win...1282.58
+
+
+Pittsburgh...35...North Carolina...38
+Spread...North Carolina...+3.5...1487.67...Win...1487.67
+
+
+Ohio...30...Cincinnati...34
+Spread...Cincinnati...-8.5...1051.11...Lose...-1051.11
+
+
+East Carolina...13...South Florida...20
+Money Line...East Carolina...1100...552.73...Lose...-552.73
+
+
+Western Michigan...34...Georgia State...15
+Spread...Western Michigan...-7.5...917.22...Win...917.22
+
+
+Texas Tech...41...Oklahoma State...17
+Money Line...Texas Tech...450...332.22...Win...1494.9900000000002
+
+
+Coastal Carolina...30...UL Lafayette...28
+Spread...Coastal Carolina...+4...1759.13...Win...1759.13
+
+
+TCU...16...Texas...31
+Spread...Texas...+3...1080.85...Win...1080.85
+
+
+Air Force...32...Utah State...42
+Spread...Utah State...-10.5...790.35...Lose...-790.35
+
+
+Texas State...21...UTSA...25
+Spread...UTSA...-7...743.91...Lose...-743.91
+
+
+Georgia...43...Missouri...29
+Money Line...Missouri...450...2.22...Lose...-2.22
+
+
+
+
+Final Net Money for the week: $4882.12

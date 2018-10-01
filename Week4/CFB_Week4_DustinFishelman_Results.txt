@@ -1,0 +1,33 @@
+Week 4 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Washington State...36...USC...39
+Spread...USC...-3.5...1500.0...Lose...-1500.0
+
+
+Stanford...38...Oregon...31
+Spread...Oregon...+2...2000.0...Lose...-2000.0
+
+
+TCU...16...Texas...31
+Spread...Texas...+3...2500.0...Win...2500.0
+
+
+South Carolina...37...Vanderbilt...14
+Spread...Vanderbilt...+2...1500.0...Lose...-1500.0
+
+
+Air Force...32...Utah State...42
+Spread...Air Force...+10.5...1000.0...Win...1000.0
+
+
+Eastern Michigan...20...San Diego State...23
+Spread...San Diego State...-11...1500.0...Lose...-1500.0
+
+
+
+
+Final Net Money for the week: $-3000.0

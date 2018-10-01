@@ -1,0 +1,33 @@
+Week 5 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+UCLA...16...Colorado...38
+Spread...Colorado...-8.5...2000.0...Win...2000.0
+
+
+Syracuse...23...Clemson...27
+Spread...Clemson...-25...1500.0...Lose...-1500.0
+
+
+Oregon State...24...Arizona State...52
+Spread...Oregon State...+22.5...1000.0...Lose...-1000.0
+
+
+Iowa State...14...TCU...17
+Spread...TCU...-10.5...1500.0...Lose...-1500.0
+
+
+Stanford...17...Notre Dame...38
+Spread...Stanford...+6...1500.0...Lose...-1500.0
+
+
+Oregon...42...California...24
+Spread...Oregon...-2.5...2500.0...Win...2500.0
+
+
+
+
+Final Net Money for the week: $-1000.0

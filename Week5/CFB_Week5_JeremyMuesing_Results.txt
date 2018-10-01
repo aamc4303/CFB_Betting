@@ -1,0 +1,61 @@
+Week 5 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Syracuse...23...Clemson...27
+Money Line...Syracuse...1400...110.71...Lose...-110.71
+
+
+Indiana...24...Rutgers...17
+Money Line...Rutgers...650...492.31...Lose...-492.31
+
+
+Toledo...27...Fresno State...49
+Spread...Fresno State...-8...1438.08...Win...1438.08
+
+
+Liberty...52...New Mexico...43
+Spread...New Mexico...-6...993.34...Lose...-993.34
+
+
+Baylor...33...Oklahoma...66
+Money Line...Baylor...1055...92.18...Lose...-92.18
+
+
+UTEP...21...UTSA...30
+Spread...UTSA...-10...965.58...Lose...-965.58
+
+
+Texas...19...Kansas State...14
+Spread...Texas...-8...1097.21...Lose...-1097.21
+
+
+West Virginia...42...Texas Tech...34
+Spread...Texas Tech...+3.5...1077.88...Lose...-1077.88
+
+
+Louisiana Tech...29...North Texas...27
+Spread...North Texas...-7...1017.39...Lose...-1017.39
+
+
+Charlotte...7...UAB...28
+Money Line...Charlotte...650...30.77...Lose...-30.77
+
+
+Oklahoma State...48...Kansas...28
+Money Line...Kansas...650...284.62...Lose...-284.62
+
+
+Florida Atlantic...24...Middle Tennessee State...25
+Spread...Middle Tennessee State...+3.5...941.53...Win...941.53
+
+
+Hawaii...44...San Jose State...41
+Spread...San Jose State...+11...1458.4...Win...1458.4
+
+
+
+
+Final Net Money for the week: $-2323.980000000001
