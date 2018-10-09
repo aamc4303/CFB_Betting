@@ -1,0 +1,33 @@
+Week 6 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+LSU...19...Florida...27
+Spread...LSU...-2.5...2000.0...Lose...-2000.0
+
+
+Arizona State...21...Colorado...28
+Money Line...Colorado...-150...2000.0...Win...1333.3333333333333
+
+
+Arizona State...21...Colorado...28
+Spread...Colorado...-3...2000.0...Win...2000.0
+
+
+Arizona State...21...Colorado...28
+Under...No Team...65...1000.0...Win...1000.0
+
+
+Navy...7...Air Force...35
+Spread...Navy...-3.5...2000.0...Lose...-2000.0
+
+
+Oklahoma...45...Texas...48
+Over...No Team...60.5...1000.0...Win...1000.0
+
+
+
+
+Final Net Money for the week: $1333.333333333333

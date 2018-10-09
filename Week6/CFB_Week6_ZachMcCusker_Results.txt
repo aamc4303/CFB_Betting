@@ -1,0 +1,29 @@
+Week 6 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+LSU...19...Florida...27
+Spread...LSU...-2.5...2000.0...Lose...-2000.0
+
+
+San Diego State...19...Boise State...13
+Over...No Team...51.5...2000.0...Lose...-2000.0
+
+
+Kentucky...14...Texas AM...20
+Spread...Kentucky...+5...2000.0...Lose...-2000.0
+
+
+Bowling Green...36...Toledo...52
+Over...No Team...73...2000.0...Win...2000.0
+
+
+Florida State...27...Miami Florida...28
+Over...No Team...48.5...2000.0...Win...2000.0
+
+
+
+
+Final Net Money for the week: $-2000.0

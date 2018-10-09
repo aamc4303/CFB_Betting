@@ -1,0 +1,25 @@
+Week 6 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Arizona State...21...Colorado...28
+Spread...Colorado...-3...4000.0...Win...4000.0
+
+
+Washington...31...UCLA...24
+Spread...UCLA...+21.5...500.0...Win...500.0
+
+
+Navy...7...Air Force...35
+Spread...Navy...-3.5...4000.0...Lose...-4000.0
+
+
+Wyoming...13...Hawaii...17
+Spread...Wyoming...+3...1500.0...Lose...-1500.0
+
+
+
+
+Final Net Money for the week: $-1000.0

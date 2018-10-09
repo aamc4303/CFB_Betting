@@ -1,0 +1,61 @@
+Week 6 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Tulsa...26...Houston...41
+Money Line...Tulsa...635...219.29...Lose...-219.29
+
+
+Utah State...45...BYU...20
+Spread...Utah State...+2.5...957.63...Win...957.63
+
+
+South Florida...58...Massachusetts...42
+Money Line...Massachusetts...450...271.11...Lose...-271.11
+
+
+Syracuse...37...Pittsburgh...44
+Spread...Syracuse...-3.5...1363.2...Lose...-1363.2
+
+
+SMU...20...Central Florida...48
+Money Line...SMU...1400...110.71...Lose...-110.71
+
+
+Old Dominion...33...Florida Atlantic...52
+Money Line...Old Dominion...445...92.02...Lose...-92.02
+
+
+LSU...19...Florida...27
+Spread...Florida...+2.5...929.1...Win...929.1
+
+
+Miami Ohio...41...Akron...17
+Spread...Akron...-3.5...899.73...Lose...-899.73
+
+
+Utah...40...Stanford...21
+Spread...Stanford...-5...1122.34...Lose...-1122.34
+
+
+Fresno State...21...Nevada...3
+Spread...Fresno State...-13.5...884.04...Win...884.04
+
+
+California...17...Arizona...24
+Spread...Arizona...+3...902.44...Win...902.44
+
+
+Navy...7...Air Force...35
+Spread...Air Force...+3.5...1153.86...Win...1153.86
+
+
+Florida State...27...Miami Florida...28
+Spread...Miami Florida...-12.5...1094.53...Lose...-1094.53
+
+
+
+
+Final Net Money for the week: $-345.8600000000001
