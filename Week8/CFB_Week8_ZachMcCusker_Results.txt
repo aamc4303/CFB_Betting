@@ -1,0 +1,37 @@
+Week 8 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Colorado State...28...Boise State...56
+Money Line...Colorado State...1128...100.0...Lose...-100.0
+
+
+Cincinnati...17...Temple...24
+Spread...Temple...-3.5...900.0...Win...900.0
+
+
+Virginia...28...Duke...14
+Spread...Duke...-7.5...1000.0...Lose...-1000.0
+
+
+Arizona...30...UCLA...31
+Spread...UCLA...-7...3000.0...Lose...-3000.0
+
+
+Minnesota...28...Nebraska...53
+Over...No Team...56...2000.0...Win...2000.0
+
+
+Oklahoma...52...TCU...27
+Spread...Oklahoma...-7.5...2000.0...Win...2000.0
+
+
+Nevada...40...Hawaii...22
+Spread...Nevada...+3...1000.0...Win...1000.0
+
+
+
+
+Final Net Money for the week: $1800.0

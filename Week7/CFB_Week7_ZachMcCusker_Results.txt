@@ -1,0 +1,29 @@
+Week 7 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Louisville...20...Boston College...38
+Spread...Boston College...-13...2000.0...Win...2000.0
+
+
+Toledo...26...Eastern Michigan...28
+Spread...Toledo...-2.5...2000.0...Lose...-2000.0
+
+
+Duke...28...Georgia Tech...14
+Spread...Duke...+2.5...2000.0...Win...2000.0
+
+
+West Virginia...14...Iowa State...30
+Spread...Iowa State...+6.5...1000.0...Win...1000.0
+
+
+Michigan State...21...Penn State...17
+Spread...Penn State...-13.5...3000.0...Lose...-3000.0
+
+
+
+
+Final Net Money for the week: $0.0

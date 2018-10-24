@@ -1,0 +1,25 @@
+Week 7 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Duke...28...Georgia Tech...14
+Money Line...Duke...120...2000.0...Win...2400.0
+
+
+Washington...27...Oregon...30
+Money Line...Oregon...135...3000.0...Win...4050.0000000000005
+
+
+Georgia...16...LSU...36
+Money Line...LSU...240...2500.0...Win...6000.0
+
+
+Georgia...16...LSU...36
+Spread...LSU...+7.5...2500.0...Win...2500.0
+
+
+
+
+Final Net Money for the week: $14950.0

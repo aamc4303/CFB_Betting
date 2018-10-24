@@ -11,7 +11,7 @@ scoresheet_holder = pandas.ExcelFile(score_filename)
 
 scoresheet = scoresheet_holder.parse('Sheet1')
 
-Names = ['AdamFoster', 'DustinFishelman', 'JeremyMuesing', 'ZachMcCusker', 'AaronMcCusker', 'ZacharyMaas', 'LukeWheeler']
+Names = ['AdamFoster', 'DustinFishelman', 'JeremyMuesing', 'ZachMcCusker', 'AaronMcCusker', 'ZachMaas', 'LukeWheeler']
 
 # Value will be an array where each item is the net money for each person with the first index corresponding to the first listed person in Names
 Value = [0]

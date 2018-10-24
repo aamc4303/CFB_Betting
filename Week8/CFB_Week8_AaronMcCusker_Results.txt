@@ -1,0 +1,29 @@
+Week 8 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Cincinnati...17...Temple...24
+Money Line...Cincinnati...155...2000.0...Lose...-2000.0
+
+
+Michigan...21...Michigan State...7
+Over...No Team...41.5...2000.0...Lose...-2000.0
+
+
+Arizona...30...UCLA...31
+Spread...UCLA...-7...2000.0...Lose...-2000.0
+
+
+California...49...Oregon State...7
+Spread...California...-6.5...2000.0...Win...2000.0
+
+
+Mississippi State...3...LSU...19
+Over...No Team...44.5...2000.0...Lose...-2000.0
+
+
+
+
+Final Net Money for the week: $-6000.0

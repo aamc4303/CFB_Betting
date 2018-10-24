@@ -1,0 +1,29 @@
+Week 7 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Arizona...10...Utah...42
+Over...No Team...51.5...2000.0...Win...2000.0
+
+
+Miami Florida...13...Virginia...16
+Spread...Miami Florida...-6.5...2000.0...Lose...-2000.0
+
+
+Colorado...20...USC...31
+Money Line...Colorado...240...2000.0...Lose...-2000.0
+
+
+Nebraska...31...Northwestern...34
+Spread...Northwestern...-4.5...2000.0...Lose...-2000.0
+
+
+UCLA...37...California...7
+Spread...California...-6.5...2000.0...Lose...-2000.0
+
+
+
+
+Final Net Money for the week: $-6000.0

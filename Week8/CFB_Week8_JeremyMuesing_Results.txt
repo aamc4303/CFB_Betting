@@ -1,0 +1,77 @@
+Week 8 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Georgia State...35...Arkansas State...51
+Money Line...Georgia State...466...477.6...Lose...-477.6
+
+
+Air Force...41...UNLV...35
+Money Line...UNLV...371...1100.51...Lose...-1100.51
+
+
+Cincinnati...17...Temple...24
+Spread...Cincinnati...+3.5...769.09...Lose...-769.09
+
+
+North Carolina...37...Syracuse...40
+Spread...Syracuse...-9.5...789.44...Lose...-789.44
+
+
+Virginia...28...Duke...14
+Spread...Duke...-7.5...618.16...Lose...-618.16
+
+
+Florida Atlantic...7...Marshall...31
+Spread...Marshall...+3...730.7...Win...730.7
+
+
+Coastal Carolina...24...Massachusetts...13
+Spread...Massachusetts...-3.5...530.19...Lose...-530.19
+
+
+Miami Ohio...30...Army...31
+Spread...Army...-7.5...758.63...Lose...-758.63
+
+
+Buffalo...31...Toledo...17
+Spread...Toledo...+0.5...661.68...Lose...-661.68
+
+
+Penn State...33...Indiana...28
+Spread...Penn State...-14.5...528.51...Lose...-528.51
+
+
+Houston...49...Navy...36
+Money Line...Navy...383...62.55...Lose...-62.55
+
+
+Wake Forest...17...Florida State...38
+Money Line...Wake Forest...320...274.38...Lose...-274.38
+
+
+Minnesota...28...Nebraska...53
+Spread...Minnesota...+3.5...641.79...Lose...-641.79
+
+
+Oklahoma...52...TCU...27
+Spread...Oklahoma...-7.5...569.88...Win...569.88
+
+
+UTSA...17...Southern Miss...27
+Money Line...UTSA...669...758.21...Lose...-758.21
+
+
+Charlotte...13...Middle Tennessee State...21
+Money Line...Charlotte...591...248.83...Lose...-248.83
+
+
+USC...28...Utah...41
+Spread...Utah...-6.5...479.85...Win...479.85
+
+
+
+
+Final Net Money for the week: $-6439.14

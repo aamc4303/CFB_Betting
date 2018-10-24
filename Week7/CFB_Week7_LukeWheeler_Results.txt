@@ -1,0 +1,33 @@
+Week 7 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Colorado...20...USC...31
+Money Line...Colorado...240...2000.0...Lose...-2000.0
+
+
+Colorado...20...USC...31
+Spread...Colorado...+7...2000.0...Lose...-2000.0
+
+
+Colorado...20...USC...31
+Over...No Team...57...1000.0...Lose...-1000.0
+
+
+Washington...27...Oregon...30
+Money Line...Oregon...135...1000.0...Win...1350.0
+
+
+Georgia...16...LSU...36
+Money Line...Georgia...-300...2000.0...Lose...-2000.0
+
+
+Georgia...16...LSU...36
+Over...No Team...51...2000.0...Win...2000.0
+
+
+
+
+Final Net Money for the week: $-3650.0

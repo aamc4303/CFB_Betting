@@ -1,0 +1,61 @@
+Week 7 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Air Force...17...San Diego State...21
+Money Line...Air Force...335...624.78...Lose...-624.78
+
+
+UL Monroe...45...Coastal Carolina...20
+Spread...Coastal Carolina...-6.5...1170.69...Lose...-1170.69
+
+
+Purdue...46...Illinois...7
+Money Line...Illinois...285...152.11...Lose...-152.11
+
+
+Virginia Tech...22...North Carolina...19
+Spread...Virginia Tech...-6...1027.01...Lose...-1027.01
+
+
+Akron...6...Buffalo...24
+Money Line...Akron...350...691.43...Lose...-691.43
+
+
+Marshall...42...Old Dominion...20
+Spread...Marshall...-3.5...1148.2...Win...1148.2
+
+
+Troy...16...Liberty...22
+Money Line...Liberty...270...105.93...Win...286.011
+
+
+Louisiana Tech...31...UTSA...3
+Money Line...UTSA...305...54.26...Lose...-54.26
+
+
+Wisconsin...13...Michigan...38
+Money Line...Wisconsin...300...146.67...Lose...-146.67
+
+
+Nebraska...31...Northwestern...34
+Spread...Northwestern...-4.5...1772.91...Lose...-1772.91
+
+
+Florida...37...Vanderbilt...27
+Spread...Florida...-7...1201.93...Win...1201.93
+
+
+Oklahoma State...12...Kansas State...31
+Spread...Oklahoma State...-7...917.06...Lose...-917.06
+
+
+Hawaii...23...BYU...49
+Spread...BYU...-11...987.03...Win...987.03
+
+
+
+
+Final Net Money for the week: $-2933.749

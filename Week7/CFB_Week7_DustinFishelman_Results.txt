@@ -1,0 +1,17 @@
+Week 7 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Texas AM...26...South Carolina...23
+Spread...Texas AM...-2.5...5000.0...Win...5000.0
+
+
+Colorado...20...USC...31
+Spread...Colorado...+7...5000.0...Lose...-5000.0
+
+
+
+
+Final Net Money for the week: $0.0
