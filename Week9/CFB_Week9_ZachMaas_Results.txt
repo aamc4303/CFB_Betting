@@ -1,0 +1,33 @@
+Week 9 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Duke...45...Pittsburgh...54
+Money Line...Pittsburgh...125...2000.0...Win...2500.0
+
+
+Texas AM...13...Mississippi State...28
+Money Line...Texas AM...105...2000.0...Lose...-2000.0
+
+
+Texas AM...13...Mississippi State...28
+Over...No Team...45...1000.0...Lose...-1000.0
+
+
+Kentucky...15...Missouri...14
+Money Line...Kentucky...245...1000.0...Win...2450.0
+
+
+Kentucky...15...Missouri...14
+Spread...Kentucky...+7.5...2000.0...Win...2000.0
+
+
+Iowa...24...Penn State...30
+Money Line...Iowa...215...2000.0...Lose...-2000.0
+
+
+
+
+Final Net Money for the week: $1950.0

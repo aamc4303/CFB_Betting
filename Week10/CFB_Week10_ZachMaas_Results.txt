@@ -1,0 +1,33 @@
+Week 10 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Pittsburgh...23...Virginia...13
+Money Line...Pittsburgh...240...1500.0...Win...3600.0
+
+
+Stanford...23...Washington...27
+Money Line...Stanford...333...1500.0...Lose...-1500.0
+
+
+Texas AM...24...Auburn...28
+Money Line...Texas AM...146...1500.0...Lose...-1500.0
+
+
+Texas AM...24...Auburn...28
+Over...No Team...48...2000.0...Win...2000.0
+
+
+Penn State...7...Michigan...42
+Spread...Penn State...+12...2000.0...Lose...-2000.0
+
+
+Alabama...29...LSU...0
+Spread...Alabama...-14...1500.0...Win...1500.0
+
+
+
+
+Final Net Money for the week: $2100.0

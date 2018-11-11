@@ -1,0 +1,73 @@
+Week 9 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Toledo...51...Western Michigan...24
+Money Line...Toledo...210...729.52...Win...1531.992
+
+
+Indiana...31...Minnesota...38
+Spread...Minnesota...+2.5...692.78...Win...692.78
+
+
+Wyoming...34...Colorado State...21
+Spread...Wyoming...+2...535.13...Win...535.13
+
+
+Louisiana Tech...21...Florida Atlantic...13
+Spread...Louisiana Tech...+3.5...485.3...Win...485.3
+
+
+Duke...45...Pittsburgh...54
+Spread...Duke...-3...592.25...Lose...-592.25
+
+
+Wisconsin...17...Northwestern...31
+Money Line...Northwestern...210...109.52...Win...229.992
+
+
+Army...37...Eastern Michigan...22
+Spread...Army...+2...580.37...Win...580.37
+
+
+Southern Miss...17...Charlotte...20
+Money Line...Charlotte...230...1376.96...Win...3167.008
+
+
+TCU...26...Kansas...27
+Money Line...Kansas...375...170.67...Win...640.0124999999999
+
+
+Northern Illinois...7...BYU...6
+Money Line...Northern Illinois...230...85.65...Win...196.995
+
+
+Arizona State...38...USC...35
+Money Line...Arizona State...215...740.47...Win...1592.0105
+
+
+UNLV...37...San Jose State...50
+Spread...UNLV...+2.5...717.92...Lose...-717.92
+
+
+Kentucky...15...Missouri...14
+Money Line...Kentucky...245...917.35...Win...2247.5075
+
+
+Tennessee...24...South Carolina...27
+Spread...South Carolina...-7.5...585.85...Lose...-585.85
+
+
+Florida International...38...Western Kentucky...17
+Spread...Florida International...-3.5...560.26...Win...560.26
+
+
+Oregon...15...Arizona...44
+Money Line...Arizona...270...1120.0...Win...3024.0
+
+
+
+
+Final Net Money for the week: $13587.3375

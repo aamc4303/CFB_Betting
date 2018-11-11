@@ -1,0 +1,77 @@
+Week 10 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Houston...31...SMU...45
+Money Line...SMU...440...71.36...Win...313.98400000000004
+
+
+Texas State...40...Georgia State...31
+Spread...Georgia State...-6.5...470.09...Lose...-470.09
+
+
+Georgia...34...Kentucky...17
+Spread...Georgia...-8.5...552.13...Win...552.13
+
+
+Georgia Tech...38...North Carolina...28
+Spread...Georgia Tech...-4.5...672.66...Win...672.66
+
+
+Memphis...59...East Carolina...41
+Spread...Memphis...-11.5...613.06...Win...613.06
+
+
+Oklahoma...51...Texas Tech...46
+Money Line...Texas Tech...391...971.13...Lose...-971.13
+
+
+Notre Dame...31...Northwestern...21
+Money Line...Northwestern...329...598.51...Lose...-598.51
+
+
+Air Force...14...Army...17
+Spread...Army...-6.5...670.52...Lose...-670.52
+
+
+San Diego State...31...New Mexico...23
+Money Line...New Mexico...330...996.06...Lose...-996.06
+
+
+Marshall...24...Southern Miss...26
+Spread...Marshall...-2.5...514.45...Lose...-514.45
+
+
+Georgia Southern...25...UL Monroe...44
+Spread...Georgia Southern...-7...541.71...Lose...-541.71
+
+
+UCLA...21...Oregon...42
+Money Line...UCLA...340...61.18...Lose...-61.18
+
+
+Stanford...23...Washington...27
+Money Line...Stanford...333...442.79...Lose...-442.79
+
+
+Iowa State...27...Kansas...3
+Money Line...Kansas...519...518.21...Lose...-518.21
+
+
+Kansas State...13...TCU...14
+Spread...TCU...-8...496.54...Lose...-496.54
+
+
+Penn State...7...Michigan...42
+Money Line...Penn State...372...1435.48...Lose...-1435.48
+
+
+Alabama...29...LSU...0
+Money Line...LSU...439...374.12...Lose...-374.12
+
+
+
+
+Final Net Money for the week: $-5938.956000000001

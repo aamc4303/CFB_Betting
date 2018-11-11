@@ -232,7 +232,7 @@ for N in Names:
 				else:
 					Spread = bets.loc[i*2]['Spread']
 					Favorite_Score = scoresheet.loc[i*2]['Score']
-					Favorite_Adjusted_Score = Favorite_Score + Spread
+					Favorite_Adjusted_Score = Favorite_Score + float(Spread)
 					Underdog_Score = scoresheet.loc[i*2 + 1]['Score']
 
 					# Person wins bet
@@ -269,8 +269,9 @@ for N in Names:
 				# The person bet on the underdog in this matchup
 				if bets.loc[i*2 + 1]['Spread'] == '-':
 					Spread = bets.loc[i*2]['Spread']
+
 					Favorite_Score = scoresheet.loc[i*2]['Score']
-					Favorite_Adjusted_Score = Favorite_Score + Spread
+					Favorite_Adjusted_Score = Favorite_Score + float(Spread)
 					Underdog_Score = scoresheet.loc[i*2 + 1]['Score']
 
                                         # Person loses bet
@@ -305,7 +306,7 @@ for N in Names:
 				else:
 					Spread = bets.loc[i*2 + 1]['Spread']
 					Favorite_Score = scoresheet.loc[i*2 + 1]['Score']
-					Favorite_Adjusted_Score = Favorite_Score + Spread
+					Favorite_Adjusted_Score = Favorite_Score + float(Spread)
 					Underdog_Score = scoresheet.loc[i*2]['Score']
 
                                         # Person wins bet

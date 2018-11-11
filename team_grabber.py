@@ -23,13 +23,13 @@ worksheet.write(Excel_row,6, "Bet")
 Excel_row = 1
 
 # Read in the webpage with the spreads (you'll also use this page for team names, though that can be gathered from the spreads or moneyline pages
-spreads_page = requests.get("http://www.donbest.com/ncaaf/odds")
+spreads_page = requests.get("http://www.donbest.com/ncaaf/odds/20181103.html")
 spreads_soup = BeautifulSoup(spreads_page.text, 'html.parser')
 
 team_name_list = spreads_soup.find_all(class_="oddsTeamWLink")
 spreads_list = spreads_soup.find_all("div", {"id" : re.compile("_Div_Line_2_*")})
 
-moneyline_page = requests.get("http://www.donbest.com/ncaaf/odds/money-lines")
+moneyline_page = requests.get("http://www.donbest.com/ncaaf/odds/money-lines/20181103.html")
 moneyline_soup = BeautifulSoup(moneyline_page.text, 'html.parser')
 
 moneylines_list = moneyline_soup.find_all("div", {"id" : re.compile("_Div_Line_2_*")})

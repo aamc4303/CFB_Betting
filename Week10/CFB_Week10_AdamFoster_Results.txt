@@ -1,0 +1,29 @@
+Week 10 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Georgia...34...Kentucky...17
+Spread...Georgia...-8.5...2000.0...Win...2000.0
+
+
+California...13...Washington State...19
+Over...No Team...49.5...1500.0...Lose...-1500.0
+
+
+UCLA...21...Oregon...42
+Spread...Oregon...-10...2000.0...Win...2000.0
+
+
+Alabama...29...LSU...0
+Money Line...LSU...439...2250.0...Lose...-2250.0
+
+
+Alabama...29...LSU...0
+Spread...LSU...+14...2250.0...Lose...-2250.0
+
+
+
+
+Final Net Money for the week: $-2000.0

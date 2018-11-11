@@ -1,0 +1,29 @@
+Week 9 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Georgia...36...Florida...17
+Money Line...Florida...220...1500.0...Lose...-1500.0
+
+
+Georgia...36...Florida...17
+Spread...Florida...+6.5...2500.0...Lose...-2500.0
+
+
+Kentucky...15...Missouri...14
+Money Line...Kentucky...245...2500.0...Win...6125.0
+
+
+Kentucky...15...Missouri...14
+Spread...Kentucky...+7.5...2500.0...Win...2500.0
+
+
+Texas...35...Oklahoma State...38
+Over...No Team...59.5...1000.0...Win...1000.0
+
+
+
+
+Final Net Money for the week: $5625.0

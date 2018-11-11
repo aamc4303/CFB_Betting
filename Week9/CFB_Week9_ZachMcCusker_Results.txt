@@ -1,0 +1,33 @@
+Week 9 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Wisconsin...17...Northwestern...31
+Money Line...Northwestern...210...1000.0...Win...2100.0
+
+
+Washington State...41...Stanford...38
+Spread...Washington State...+3...2000.0...Win...2000.0
+
+
+South Florida...36...Houston...57
+Spread...Houston...-7.5...1000.0...Win...1000.0
+
+
+Iowa...24...Penn State...30
+Spread...Iowa...+6.5...2000.0...Win...2000.0
+
+
+Purdue...13...Michigan State...23
+Spread...Purdue...+1.5...1000.0...Lose...-1000.0
+
+
+Texas Tech...31...Iowa State...40
+Spread...Iowa State...-3.5...3000.0...Win...3000.0
+
+
+
+
+Final Net Money for the week: $9100.0
