@@ -1,0 +1,33 @@
+Week 11 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Kentucky...7...Tennessee...24
+Spread...Kentucky...-6.0...1500.0...Lose...-1500.0
+
+
+Miami (FL)...21...Georgia Tech...27
+Money Line...Miami (FL)...140...2000.0...Lose...-2000.0
+
+
+Oregon...25...Utah...32
+Over...No Team...55.5...1500.0...Win...1500.0
+
+
+Wisconsin...10...Penn State...22
+Money Line...Wisconsin...285...1500.0...Lose...-1500.0
+
+
+Texas...41...Texas Tech...34
+Money Line...Texas Tech...110...1500.0...Lose...-1500.0
+
+
+Ohio State...26...Michigan State...6
+Money Line...Michigan State...140...2000.0...Lose...-2000.0
+
+
+
+
+Final Net Money for the week: $-7000.0
