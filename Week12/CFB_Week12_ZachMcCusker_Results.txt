@@ -1,0 +1,29 @@
+Week 12 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Connecticut...21...East Carolina...55
+Over...No Team...68.5...2000.0...Win...2000.0
+
+
+Missouri...50...Tennessee...17
+Spread...Tennessee...+...2000.0...Lose...-2000.0
+
+
+Nevada...21...San Jose State...12
+Over...No Team...59.5...2000.0...Lose...-2000.0
+
+
+Michigan State...6...Nebraska...9
+Spread...Nebraska...+...2000.0...Win...2000.0
+
+
+UNLV...28...Hawaii...35
+Spread...Hawaii...-6.5...2000.0...Win...2000.0
+
+
+
+
+Final Net Money for the week: $2000.0
