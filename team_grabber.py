@@ -19,6 +19,8 @@ worksheet.write(Excel_row,3, "Spread")
 worksheet.write(Excel_row,4, "Bet")
 worksheet.write(Excel_row,5, "O/U")
 worksheet.write(Excel_row,6, "Bet")
+worksheet.write(Excel_row,8, "Total Bet:")
+worksheet.write(Excel_row,9, '=sum(C:C,E:E,G:G)')
 
 Excel_row = 1
 

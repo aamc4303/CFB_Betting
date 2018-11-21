@@ -1,3 +1,10 @@
+"""
+This script reads the scores from the week's football games and compares those
+scores with the betting sheets from the participants in the fantasy league.
+It determines how each person's bets fared and prints personal bet result
+text files and each participant.
+"""
+
 import pandas
 
 # Result_Write is used to write the bet results to a text file
@@ -440,7 +447,6 @@ for N in Names:
                     # Something went wrong
                     print('Something went wrong characterizing the O/U bet')
 
-
             # The person bet the under
             elif float(bets.loc[i*2]['Bet.2']) > 0 and bets.loc[i*2]['O/U'] == '-':
 
@@ -499,20 +505,14 @@ for N in Names:
                 # The person somehow put the bet in the wrong spot
                 Statement = N + ' put their O/U in the wrong spot'
                 print(Statement)
-                
+             
+    # Print results to the terminal so you can laugh at everyone's losses
     print('%(Name)s has a final value of %(Net).2f\n' % {'Name': N, 'Net': Value[n]})
     
-    # Write something at the end of the text file showing the final net
-    F.write("\n\n")
-
-    FinalStatement = 'Final Net Money for the week: $' + str(Value[n])
-
-    F.write("\n")
-    F.write(FinalStatement)
     # Close the text file you've been writing to
     F.close()
 
-    # This needs to be the last item in the entire for-loop. It indexes n to the next value            
+    # This needs to be the last item in the entire for-loop. It indexes n to the next value so that your Value list is correct       
     n += 1
 
 

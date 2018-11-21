@@ -1,3 +1,9 @@
+"""
+This script goes online to pull the most up-to-date college football betting
+lines from vegasinsider.com. It puts those lines into an Excel file which is
+then sent to every participant to fill out.
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import xlsxwriter
@@ -43,9 +49,8 @@ def ExtractSpreadTotal(lineString,lineType):
         return total
 
 # Make a filename based on which week of the season it is
-# Week = input("Week Number: ")
-Week = 12
-Excel_Filename = "CFB_Week" + str(Week) + "_FirstnameLastname.xlsx"
+Week = input("Week Number: ")
+Excel_Filename = "CFB_Week" + str(Week) + "_FirstnameLastname.xls"
 
 # Prepare the xlsx file
 workbook = xlsxwriter.Workbook(Excel_Filename)
@@ -60,6 +65,8 @@ worksheet.write(excelRow,3, "Spread")
 worksheet.write(excelRow,4, "Bet")
 worksheet.write(excelRow,5, "O/U")
 worksheet.write(excelRow,6, "Bet")
+worksheet.write(excelRow,8, "Total Bet:")
+worksheet.write(excelRow,9, '=sum(C:C,E:E,G:G)')
 
 # Increment the row to be the 2nd in the file. You're done with headers and are ready to insert quality data
 excelRow = 1
@@ -111,7 +118,7 @@ for tableRow in tableBodySpreads:
     spreadsList.extend(spreadsList2)
 
     # The desired spread column currently corresponds with the Westgate Sportsbook. Changing the desired column will change which sportsbook you prefer to get the lines from
-    desiredSpreadColumn = 3
+    desiredSpreadColumn = 2
     currentSpreadColumn = 0
     
     # Go through every spread in the current row (ie the current matchup)
