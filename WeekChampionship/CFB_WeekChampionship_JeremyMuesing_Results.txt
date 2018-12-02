@@ -1,0 +1,25 @@
+Week Championship Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Pittsburgh...10...Clemson...42
+Money Line...Pittsburgh...1500...50.0...Lose...-50.0
+
+
+Drake...24...Iowa State...27
+Money Line...Drake...45500...50.0...Lose...-50.0
+
+
+East Carolina...3...North Carolina State...58
+Money Line...East Carolina...1095...50.0...Lose...-50.0
+
+
+Norfolk State...17...Liberty...52
+Spread...Liberty...-3.5...9800.0...Win...9800.0
+
+
+Akron...3...South Carolina...28
+Money Line...Akron...3000...50.0...Lose...-50.0
+

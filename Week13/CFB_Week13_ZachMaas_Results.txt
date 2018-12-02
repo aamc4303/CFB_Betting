@@ -1,0 +1,25 @@
+Week 13 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Oregon...55...Oregon State...15
+Spread...Oregon State...+...2000.0...Lose...-2000.0
+
+
+Oklahoma...59...West Virginia...56
+Spread...Oklahoma...-1.5...2000.0...Win...2000.0
+
+
+Pittsburgh...3...Miami (FL)...24
+Money Line...Pittsburgh...200...1000.0...Lose...-1000.0
+
+
+Oklahoma State...24...Texas Christian...31
+Spread...Oklahoma State...-5.0...2500.0...Lose...-2500.0
+
+
+Notre Dame...24...Southern Cal...17
+Spread...Notre Dame...-10.5...2500.0...Lose...-2500.0
+

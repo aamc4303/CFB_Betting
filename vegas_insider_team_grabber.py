@@ -50,7 +50,7 @@ def ExtractSpreadTotal(lineString,lineType):
 
 # Make a filename based on which week of the season it is
 Week = input("Week Number: ")
-Excel_Filename = "CFB_Week" + str(Week) + "_FirstnameLastname.xls"
+Excel_Filename = "CFB_Week" + str(Week) + "_FirstnameLastname.xlsx"
 
 # Prepare the xlsx file
 workbook = xlsxwriter.Workbook(Excel_Filename)

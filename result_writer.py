@@ -32,8 +32,17 @@ week_number = input("Week Number: ")
 
 # Read in the file containing the scores using pandas
 score_filename = 'CFB_Week' + str(week_number) + '_Scores.xls'
-scoresheet_holder = pandas.ExcelFile(score_filename)
-scoresheet = scoresheet_holder.parse('Sheet1')
+
+try:
+    scoresheet_holder = pandas.ExcelFile(score_filename)
+    scoresheet = scoresheet_holder.parse('Sheet1')
+except:
+    try:
+        score_filename = 'CFB_Week' + str(week_number) + '_Scores.xlsx'
+        scoresheet_holder = pandas.ExcelFile(score_filename)
+        scoresheet = scoresheet_holder.parse('Sheet1')
+    except:
+        print("Score file not found!")
 
 # Define the names of the participants.
 Names = ['AdamFoster', 'DustinFishelman', 'JeremyMuesing', 'ZachMcCusker', 'AaronMcCusker', 'ZachMaas', 'LukeWheeler']
@@ -61,7 +70,7 @@ for N in Names:
         Value.append(0)
     
     # Read in the bet file from the person N    
-    bets_filename = 'CFB_Week' + str(week_number) + '_' + N + '.xlsx'
+    bets_filename = 'CFB_Week' + str(week_number) + '_' + N + '.xls'
     bets_holder = pandas.ExcelFile(bets_filename)
     bets = bets_holder.parse('Sheet1')
     

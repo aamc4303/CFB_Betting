@@ -1,0 +1,25 @@
+Week Championship Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Utah...3...Washington...10
+Spread...Washington...-5.0...2000.0...Win...2000.0
+
+
+Memphis...41...Central Florida...56
+Over...No Team...64.5...2000.0...Win...2000.0
+
+
+Georgia...28...Alabama...35
+Spread...Georgia...+...2000.0...Win...2000.0
+
+
+Fresno State...19...Boise State...16
+Spread...Boise State...-2.5...2000.0...Lose...-2000.0
+
+
+East Carolina...3...North Carolina State...58
+Over...No Team...60.5...2000.0...Win...2000.0
+
