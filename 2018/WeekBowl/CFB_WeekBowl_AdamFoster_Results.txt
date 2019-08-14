@@ -1,0 +1,21 @@
+Week Bowl Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Florida...41...Michigan...15
+Spread...Michigan...-6.5...2500.0...Lose...-2500.0
+
+
+LSU...40...Central Florida...32
+Spread...LSU...-7.0...2500.0...Win...2500.0
+
+
+Washington...23...Ohio State...28
+Spread...Ohio State...-6.5...2500.0...Lose...-2500.0
+
+
+Texas...28...Georgia...21
+Spread...Texas...+...2500.0...Win...2500.0
+

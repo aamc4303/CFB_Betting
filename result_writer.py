@@ -45,7 +45,7 @@ except:
         print("Score file not found!")
 
 # Define the names of the participants.
-Names = ['AdamFoster', 'DustinFishelman', 'JeremyMuesing', 'ZachMcCusker', 'AaronMcCusker', 'ZachMaas', 'LukeWheeler']
+Names = ['AdamFoster', 'DustinFishelman', 'JeremyMuesing', 'ZachMcCusker', 'AaronMcCusker', 'ZacharyMaas']
 
 # Value will be an array where each item is the net money for each person with the first index corresponding to the first listed person in Names
 Value = [0]

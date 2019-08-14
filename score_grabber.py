@@ -1,7 +1,7 @@
 """
 This script goes online and pulls the weekly scores from the internet and saves
-those scores to an Excel file. The resulting Excel file is used in main.py to
-determine how everyone's bets fared.
+those scores to an Excel file. The resulting Excel file is used in 
+result_writer.py to determine how everyone's bets fared.
 """
 
 from bs4 import BeautifulSoup

@@ -1,0 +1,9 @@
+Week Bowl Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Northwestern...31...Utah...20
+Money Line...Northwestern...240...10000.0...Win...24000.0
+
