@@ -11,3 +11,5 @@ After the week concludes, run score_grabber.py which finds the scores for all of
 Finally, run result_writer.py to compare your friends' bets with the scores from the week, and write the results to .txt files so everyone can see how they did.
 
 Manually update the Scorecard.xls file each week with everyone's results. This will soon also be automated but I'm not there yet.
+
+Note: team_grabber.py is deprecrated and will no longer function properly as the site that I was using to pull the data from in the 2017-2018 season has changed their security settings and I can't pull from there anymore.
