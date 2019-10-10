@@ -1,0 +1,49 @@
+Week 5 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Navy...23...Memphis...35
+Spread...Memphis...-10.5...945.13...Win...945.13
+
+
+San Jose State...24...Air Force...41
+Spread...Air Force...-18.5...955.92...Lose...-955.92
+
+
+Connecticut...21...Central Florida...56
+Money Line...Connecticut...40000...35.15...Lose...-35.15
+
+
+Middle Tennessee St....3...Iowa...48
+Spread...Iowa...-23.5...948.49...Win...948.49
+
+
+Fresno State...30...New Mexico State...17
+Spread...Fresno State...-17.5...917.21...Lose...-917.21
+
+
+Indiana...31...Michigan State...40
+Spread...Michigan State...-14.0...1005.91...Lose...-1005.91
+
+
+Northern Illinois...18...Vanderbilt...24
+Spread...Vanderbilt...-6.5...950.05...Lose...-950.05
+
+
+Kansas...14...Texas Christian...51
+Spread...Texas Christian...-16.0...1026.64...Win...1026.64
+
+
+Virginia...20...Notre Dame...35
+Spread...Notre Dame...-12.5...1300.9...Win...1300.9
+
+
+Ohio State...48...Nebraska...7
+Spread...Ohio State...-17.0...1044.74...Win...1044.74
+
+
+Arkansas...27...Texas AM...31
+Spread...Texas AM...-23.0...869.86...Lose...-869.86
+

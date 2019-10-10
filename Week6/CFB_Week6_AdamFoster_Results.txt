@@ -1,0 +1,21 @@
+Week 6 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Georgia...43...Tennessee...14
+Money Line...Georgia...-3000...4000.0...Win...133.33333333333334
+
+
+Air Force...25...Navy...34
+Spread...Air Force...-3.5...2000.0...Lose...-2000.0
+
+
+Auburn...13...Florida...24
+Spread...Auburn...-3.0...2000.0...Lose...-2000.0
+
+
+Michigan State...10...Ohio State...34
+Spread...Ohio State...-20.0...2000.0...Win...2000.0
+

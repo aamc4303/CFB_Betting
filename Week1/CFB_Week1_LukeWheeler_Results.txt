@@ -1,0 +1,9 @@
+Week 1 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Colorado State...31...Colorado...52
+Spread...Colorado...-13.5...10000.0...Win...10000.0
+

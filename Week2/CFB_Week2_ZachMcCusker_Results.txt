@@ -1,0 +1,25 @@
+Week 2 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Army...21...Michigan...24
+Spread...Michigan...-22.5...2000.0...Lose...-2000.0
+
+
+Syracuse...20...Maryland...63
+Spread...Maryland...-2.0...2000.0...Win...2000.0
+
+
+West Virginia...7...Missouri...38
+Spread...Missouri...-14.0...2000.0...Win...2000.0
+
+
+Western Michigan...17...Michigan State...51
+Spread...Western Michigan...+16.0...2000.0...Lose...-2000.0
+
+
+Oregon State...28...Hawaii...31
+Over...No Team...78.5...2000.0...Lose...-2000.0
+

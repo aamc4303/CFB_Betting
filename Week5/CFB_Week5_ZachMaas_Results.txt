@@ -1,0 +1,29 @@
+Week 5 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Clemson...21...North Carolina...20
+Under...No Team...60.5...1500.0...Win...1500.0
+
+
+Kentucky...7...South Carolina...24
+Money Line...Kentucky...130...2000.0...Lose...-2000.0
+
+
+Kansas...14...Texas Christian...51
+Money Line...Kansas...525...1500.0...Lose...-1500.0
+
+
+Kansas...14...Texas Christian...51
+Over...No Team...49.0...1500.0...Win...1500.0
+
+
+Florida Atlantic...45...UNC Charlotte...27
+Over...No Team...65.5...1000.0...Win...1000.0
+
+
+Ohio State...48...Nebraska...7
+Spread...Ohio State...-17.0...2500.0...Win...2500.0
+

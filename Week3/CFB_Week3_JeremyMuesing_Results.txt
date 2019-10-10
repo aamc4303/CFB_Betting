@@ -1,0 +1,61 @@
+Week 3 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Washington State...24...Houston...31
+Spread...Washington State...-9.0...1053.68...Lose...-1053.68
+
+
+Ohio State...51...Indiana...10
+Money Line...Indiana...496...627.4...Lose...-627.4
+
+
+Maryland...17...Temple...20
+Spread...Maryland...-8.0...723.34...Lose...-723.34
+
+
+Miami (OH)...13...Cincinnati...35
+Money Line...Miami (OH)...548...78.98...Lose...-78.98
+
+
+Pittsburgh...10...Penn State...17
+Spread...Penn State...-17.0...740.99...Lose...-740.99
+
+
+Stanford...27...Central Florida...45
+Spread...Central Florida...-7.0...1205.46...Win...1205.46
+
+
+Alabama...47...South Carolina...23
+Money Line...South Carolina...1124...613.1...Lose...-613.1
+
+
+Army...31...Texas-San Antonio...13
+Money Line...Texas-San Antonio...548...469.2...Lose...-469.2
+
+
+Georgia Southern...32...Minnesota...35
+Spread...Minnesota...-15.5...752.59...Lose...-752.59
+
+
+Arizona State...10...Michigan State...7
+Spread...Michigan State...-13.0...880.97...Lose...-880.97
+
+
+North Texas...17...California...23
+Spread...California...-14.0...736.92...Lose...-736.92
+
+
+Massachusetts...17...UNC Charlotte...52
+Money Line...Massachusetts...755...11.79...Lose...-11.79
+
+
+Ohio...31...Marshall...33
+Spread...Marshall...-5.5...753.58...Lose...-753.58
+
+
+New Hampshire...17...Florida Intl...30
+Spread...Florida Intl...-8.5...1352.0...Win...1352.0
+

@@ -66,7 +66,7 @@ worksheet.write(excelRow,4, "Bet")
 worksheet.write(excelRow,5, "O/U")
 worksheet.write(excelRow,6, "Bet")
 worksheet.write(excelRow,8, "Total Bet:")
-worksheet.write(excelRow,9, '=sum(C:C,E:E,G:G)')
+worksheet.write(excelRow,9, '=SUM(C2:C300) + SUM(E2:E300) + SUM(G2:G300)')
 
 # Increment the row to be the 2nd in the file. You're done with headers and are ready to insert quality data
 excelRow = 1

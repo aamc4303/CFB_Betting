@@ -1,0 +1,17 @@
+Week 1 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Utah...30...BYU...12
+Money Line...BYU...180...3500.0...Lose...-3500.0
+
+
+Purdue...31...Nevada...34
+Money Line...Nevada...340...3000.0...Win...10200.0
+
+
+Oklahoma State...52...Oregon State...36
+Money Line...Oregon State...450...3500.0...Lose...-3500.0
+

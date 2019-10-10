@@ -1,0 +1,93 @@
+Week 1 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Albany...21...Central Michigan...38
+Spread...Central Michigan...-14.0...485.98...Win...485.98
+
+
+Wagner...21...Connecticut...24
+Spread...Connecticut...-17.5...520.24...Lose...-520.24
+
+
+Robert Morris...10...SUNY-Buffalo...38
+Money Line...Robert Morris...64000...84.53...Lose...-84.53
+
+
+Morgan State...3...Bowling Green State...46
+Spread...Bowling Green State...-20.5...471.43...Win...471.43
+
+
+Florida AM...0...Central Florida...62
+Money Line...Florida AM...72000...36.18...Lose...-36.18
+
+
+Central Arkansas...35...Western Kentucky...28
+Spread...Western Kentucky...-8.5...615.12...Lose...-615.12
+
+
+Alabama State...19...UAB...24
+Money Line...Alabama State...192050...74.83...Lose...-74.83
+
+
+South Dakota State...21...Minnesota...28
+Spread...Minnesota...-13.0...464.58...Lose...-464.58
+
+
+Northern Colorado...18...San Jose State...35
+Spread...San Jose State...-10.5...651.98...Win...651.98
+
+
+Rice...7...Army...14
+Spread...Army...-21.5...469.04...Lose...-469.04
+
+
+Massachusetts...21...Rutgers...48
+Spread...Rutgers...-15.5...459.6...Win...459.6
+
+
+East Carolina...6...North Carolina State...34
+Spread...North Carolina State...-17.0...451.05...Win...451.05
+
+
+Toledo...24...Kentucky...38
+Spread...Kentucky...-11.5...477.09...Win...477.09
+
+
+Mississippi State...38...Louisiana-Lafayette...28
+Spread...Mississippi State...-20.0...461.72...Lose...-461.72
+
+
+Miami (OH)...14...Iowa...38
+Spread...Iowa...-21.5...453.18...Win...453.18
+
+
+Indiana State...17...Kansas...24
+Spread...Kansas...-4.5...610.81...Win...610.81
+
+
+Northern Iowa...26...Iowa State...29
+Spread...Iowa State...-18.5...490.09...Lose...-490.09
+
+
+Eastern Washington...14...Washington...47
+Spread...Washington...-21.0...463.29...Win...463.29
+
+
+Montana State...10...Texas Tech...45
+Spread...Texas Tech...-25.0...408.13...Win...408.13
+
+
+Incarnate Word...7...Texas-San Antonio...35
+Spread...Texas-San Antonio...-5.5...673.85...Win...673.85
+
+
+UC Davis...13...California...27
+Spread...California...-13.0...569.67...Win...569.67
+
+
+Weber State...0...San Diego State...6
+Spread...San Diego State...-7.5...607.6...Lose...-607.6
+

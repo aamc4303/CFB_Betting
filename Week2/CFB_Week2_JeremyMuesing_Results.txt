@@ -1,0 +1,45 @@
+Week 2 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Ohio...10...Pittsburgh...20
+Spread...Pittsburgh...-5.5...1122.53...Win...1122.53
+
+
+Cincinnati...0...Ohio State...42
+Money Line...Cincinnati...600...981.67...Lose...-981.67
+
+
+UNC Charlotte...41...Appalachian State...56
+Money Line...UNC Charlotte...1000...155.0...Lose...-155.0
+
+
+Texas-San Antonio...14...Baylor...63
+Money Line...Texas-San Antonio...2000...56.5...Lose...-56.5
+
+
+San Diego State...23...UCLA...14
+Spread...UCLA...-7.0...1737.68...Lose...-1737.68
+
+
+Central Florida...48...Florida Atlantic...14
+Spread...Central Florida...-10.0...1089.1...Win...1089.1
+
+
+LSU...45...Texas...38
+Spread...LSU...-5.5...1270.56...Win...1270.56
+
+
+Arkansas...17...Mississippi...31
+Spread...Mississippi...-6.5...1202.4...Win...1202.4
+
+
+Eastern Michigan...17...Kentucky...38
+Spread...Kentucky...-14.5...1254.95...Win...1254.95
+
+
+California...20...Washington...19
+Spread...Washington...-14.0...1129.61...Lose...-1129.61
+

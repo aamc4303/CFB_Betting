@@ -1,0 +1,49 @@
+Week 6 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Georgia Southern...20...South Alabama...17
+Spread...Georgia Southern...-10.0...980.46...Lose...-980.46
+
+
+Boston College...39...Louisville...41
+Spread...Louisville...-6.5...1021.04...Lose...-1021.04
+
+
+North Carolina...38...Georgia Tech...22
+Spread...North Carolina...-10.0...1174.57...Win...1174.57
+
+
+Pittsburgh...33...Duke...30
+Spread...Duke...-4.0...962.57...Lose...-962.57
+
+
+Virginia Tech...42...Miami (FL)...35
+Spread...Miami (FL)...-13.5...1213.62...Lose...-1213.62
+
+
+California...7...Oregon...17
+Spread...Oregon...-18.0...1143.67...Lose...-1143.67
+
+
+Tulsa...37...Southern Methodist...43
+Spread...Southern Methodist...-12.5...914.5...Lose...-914.5
+
+
+Bowling Green State...0...Notre Dame...52
+Money Line...Bowling Green State...60000...23.4...Lose...-23.4
+
+
+Massachusetts...0...Florida Intl...44
+Spread...Florida Intl...-26.5...821.84...Win...821.84
+
+
+Memphis...52...Louisiana-Monroe...33
+Spread...Memphis...-15.0...858.49...Win...858.49
+
+
+Michigan State...10...Ohio State...34
+Spread...Ohio State...-20.0...885.84...Win...885.84
+

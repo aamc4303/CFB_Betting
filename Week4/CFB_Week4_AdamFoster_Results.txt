@@ -1,0 +1,37 @@
+Week 4 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Boston College...30...Rutgers...16
+Money Line...Rutgers...245...1000.0...Lose...-1000.0
+
+
+Boston College...30...Rutgers...16
+Spread...Rutgers...+7.0...1500.0...Lose...-1500.0
+
+
+Western Michigan...33...Syracuse...52
+Money Line...Western Michigan...180...1000.0...Lose...-1000.0
+
+
+Western Michigan...33...Syracuse...52
+Spread...Western Michigan...+6.0...1500.0...Lose...-1500.0
+
+
+Michigan...14...Wisconsin...35
+Spread...Wisconsin...-3.5...1000.0...Win...1000.0
+
+
+Colorado...34...Arizona State...31
+Spread...Colorado...+7.5...1000.0...Win...1000.0
+
+
+Colorado...34...Arizona State...31
+Over...No Team...49.5...1500.0...Win...1500.0
+
+
+Notre Dame...17...Georgia...23
+Spread...Notre Dame...+14.0...1500.0...Win...1500.0
+

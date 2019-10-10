@@ -1,0 +1,25 @@
+Week 3 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Kansas State...31...Mississippi State...24
+Spread...Kansas State...+7.5...2500.0...Win...2500.0
+
+
+Stanford...27...Central Florida...45
+Spread...Central Florida...-7.0...2500.0...Win...2500.0
+
+
+Iowa...18...Iowa State...17
+Money Line...Iowa State...107...1500.0...Lose...-1500.0
+
+
+Iowa...18...Iowa State...17
+Spread...Iowa State...+1.5...1000.0...Win...1000.0
+
+
+Clemson...41...Syracuse...6
+Spread...Clemson...-27.5...2500.0...Win...2500.0
+

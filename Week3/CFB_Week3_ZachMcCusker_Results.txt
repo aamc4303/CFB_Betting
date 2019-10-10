@@ -1,0 +1,21 @@
+Week 3 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Stanford...27...Central Florida...45
+Spread...Central Florida...-7.0...1000.0...Win...1000.0
+
+
+Oklahoma State...40...Tulsa...21
+Spread...Oklahoma State...-14.5...5000.0...Win...5000.0
+
+
+Northern Illinois...8...Nebraska...44
+Spread...Nebraska...-14.0...2000.0...Win...2000.0
+
+
+Idaho...16...Wyoming...21
+Spread...Wyoming...-25.0...2000.0...Lose...-2000.0
+

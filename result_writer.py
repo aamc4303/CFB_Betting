@@ -45,7 +45,9 @@ except:
         print("Score file not found!")
 
 # Define the names of the participants.
-Names = ['AdamFoster', 'DustinFishelman', 'JeremyMuesing', 'ZachMcCusker', 'AaronMcCusker', 'ZacharyMaas']
+#Names = ['AdamFoster', 'DustinFishelman', 'JeremyMuesing', 'ZachMcCusker', 'AaronMcCusker', 'ZachMaas', 'LukeWheeler']
+
+Names = ['AaronMcCusker']
 
 # Value will be an array where each item is the net money for each person with the first index corresponding to the first listed person in Names
 Value = [0]
@@ -69,9 +71,18 @@ for N in Names:
     if n > 0:
         Value.append(0)
     
-    # Read in the bet file from the person N    
-    bets_filename = 'CFB_Week' + str(week_number) + '_' + N + '.xls'
-    bets_holder = pandas.ExcelFile(bets_filename)
+    # Read in the bet file from the person N 
+    # Since the file extensions can be different, try both before you toss an error
+    for extensions in ['.xls','.xlsx']:
+        bets_filename = 'CFB_Week' + str(week_number) + '_' + N + extensions
+        try:
+            bets_holder = pandas.ExcelFile(bets_filename)
+            break
+        except FileNotFoundError:
+            continue
+    else:
+        FileNotFoundError()
+        
     bets = bets_holder.parse('Sheet1')
     
     # In the scoresheet, run through every matchup
@@ -257,7 +268,7 @@ for N in Names:
                         Value[n] = Value[n] + Net
 
                         # Write to the text file
-                        Result_Write(F,Team1,Team1Score,Team2,Team2Score,"Spread",Team1,"+" + str(-1*bets.loc[i*2 + 1]['Spread']),bets.loc[i*2]['Bet.1'],"Lose",Net)
+                        Result_Write(F,Team1,Team1Score,Team2,Team2Score,"Spread",Team1,"+" + str(-1*float(bets.loc[i*2 + 1]['Spread'])),bets.loc[i*2]['Bet.1'],"Lose",Net)
 
                     # Person wins bet
                     elif Favorite_Adjusted_Score < Underdog_Score:
@@ -266,14 +277,14 @@ for N in Names:
                         Value[n] = Value[n] + Net
                         
                         # Write to the text file
-                        Result_Write(F,Team1,Team1Score,Team2,Team2Score,"Spread",Team1,"+" + str(-1*bets.loc[i*2 + 1]['Spread']),bets.loc[i*2]['Bet.1'],"Win",Net)
+                        Result_Write(F,Team1,Team1Score,Team2,Team2Score,"Spread",Team1,"+" + str(-1*float(bets.loc[i*2 + 1]['Spread'])),bets.loc[i*2]['Bet.1'],"Win",Net)
 
                     elif Favorite_Adjusted_Score == Underdog_Score:
                         # Push
                         Value[n] = Value[n]
 
                         # Write to the text file
-                        Result_Write(F,Team1,Team1Score,Team2,Team2Score,"Spread",Team1,"+" + str(-1*bets.loc[i*2 + 1]['Spread']),bets.loc[i*2]['Bet.1'],"Push",0)
+                        Result_Write(F,Team1,Team1Score,Team2,Team2Score,"Spread",Team1,"+" + str(-1*float(bets.loc[i*2 + 1]['Spread'])),bets.loc[i*2]['Bet.1'],"Push",0)
                     
                     else:
                         Statement = 'An error occured with the spread bet for ' + N
@@ -335,7 +346,7 @@ for N in Names:
                         Value[n] = Value[n] + Net
 
                         # Write to text file
-                        Result_Write(F,Team1,Team1Score,Team2,Team2Score,"Spread",Team2,"+" + str(-1*bets.loc[i*2]['Spread']),bets.loc[i*2 + 1]['Bet.1'],"Lose",Net)
+                        Result_Write(F,Team1,Team1Score,Team2,Team2Score,"Spread",Team2,"+" + str(-1*float(bets.loc[i*2]['Spread'])),bets.loc[i*2 + 1]['Bet.1'],"Lose",Net)
 
                     # Person wins bet
                     elif Favorite_Adjusted_Score < Underdog_Score:
@@ -344,13 +355,13 @@ for N in Names:
                         Value[n] = Value[n] + Net
 
                         # Write to text file
-                        Result_Write(F,Team1,Team1Score,Team2,Team2Score,"Spread",Team2,"+" + str(-1*bets.loc[i*2]['Spread']),bets.loc[i*2 + 1]['Bet.1'],"Win",Net)
+                        Result_Write(F,Team1,Team1Score,Team2,Team2Score,"Spread",Team2,"+" + str(-1*float(bets.loc[i*2]['Spread'])),bets.loc[i*2 + 1]['Bet.1'],"Win",Net)
                     
                     # Push
                     elif Favorite_Adjusted_Score == Underdog_Score:
                         Value[n] = Value[n]
 
-                        Result_Write(F,Team1,Team1Score,Team2,Team2Score,"Spread",Team2,"+" + str(-1*bets.loc[i*2]['Spread']),bets.loc[i*2 + 1]['Bet.1'],"Push",0)
+                        Result_Write(F,Team1,Team1Score,Team2,Team2Score,"Spread",Team2,"+" + str(-1*float(bets.loc[i*2]['Spread'])),bets.loc[i*2 + 1]['Bet.1'],"Push",0)
 
                     else:
                         Statement = 'An error occured with the spread bet for ' + N

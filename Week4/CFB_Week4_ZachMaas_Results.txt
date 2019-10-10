@@ -1,0 +1,37 @@
+Week 4 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Michigan State...31...Northwestern...10
+Spread...Northwestern...+9.5...1000.0...Lose...-1000.0
+
+
+Michigan State...31...Northwestern...10
+Over...No Team...39.0...1000.0...Win...1000.0
+
+
+Colorado...34...Arizona State...31
+Under...No Team...49.5...1000.0...Lose...-1000.0
+
+
+Kentucky...13...Mississippi State...28
+Money Line...Kentucky...200...1500.0...Lose...-1500.0
+
+
+Kentucky...13...Mississippi State...28
+Spread...Kentucky...+6.5...1500.0...Lose...-1500.0
+
+
+Oklahoma State...30...Texas...36
+Spread...Texas...-5.0...1000.0...Win...1000.0
+
+
+Louisville...24...Florida State...35
+Money Line...Louisville...195...2000.0...Lose...-2000.0
+
+
+Louisville...24...Florida State...35
+Over...No Team...61.5...1000.0...Lose...-1000.0
+

@@ -1,0 +1,77 @@
+Week 4 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Houston...31...Tulane...38
+Spread...Tulane...-5.0...632.9...Win...632.9
+
+
+Utah...23...Southern Cal...30
+Spread...Southern Cal...+3.5...653.98...Win...653.98
+
+
+Louisiana-Monroe...20...Iowa State...72
+Money Line...Louisiana-Monroe...750...208.0...Lose...-208.0
+
+
+Coastal Carolina...62...Massachusetts...28
+Spread...Coastal Carolina...-17.0...605.45...Win...605.45
+
+
+Michigan State...31...Northwestern...10
+Spread...Michigan State...-9.5...612.87...Win...612.87
+
+
+Troy...35...Akron...7
+Money Line...Akron...600...258.33...Lose...-258.33
+
+
+Western Michigan...33...Syracuse...52
+Spread...Western Michigan...+6.0...744.1...Lose...-744.1
+
+
+Ball State...23...North Carolina State...34
+Money Line...Ball State...800...133.75...Lose...-133.75
+
+
+Michigan...14...Wisconsin...35
+Spread...Wisconsin...-3.5...714.24...Win...714.24
+
+
+New Mexico State...52...New Mexico...55
+Spread...New Mexico...-5.0...866.62...Lose...-866.62
+
+
+Tennessee...3...Florida...34
+Spread...Florida...-14.0...680.48...Win...680.48
+
+
+Appalachian State...34...North Carolina...31
+Spread...North Carolina...-3.0...777.06...Lose...-777.06
+
+
+Bowling Green State...20...Kent State...62
+Spread...Kent State...-10.5...613.83...Win...613.83
+
+
+San Jose State...31...Arkansas...24
+Money Line...San Jose State...900...222.22...Win...1999.98
+
+
+South Alabama...3...UAB...35
+Spread...UAB...-10.0...608.48...Win...608.48
+
+
+Oregon...21...Stanford...6
+Spread...Oregon...-10.5...755.03...Win...755.03
+
+
+Texas-San Antonio...3...North Texas...45
+Money Line...Texas-San Antonio...700...240.0...Lose...-240.0
+
+
+UCLA...67...Washington State...63
+Money Line...UCLA...750...672.66...Win...5044.95
+

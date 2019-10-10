@@ -1,0 +1,21 @@
+Week 3 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Ohio State...51...Indiana...10
+Spread...Ohio State...-15.0...2500.0...Win...2500.0
+
+
+Air Force...30...Colorado...23
+Spread...Colorado...-3.5...2500.0...Lose...-2500.0
+
+
+Air Force...30...Colorado...23
+Under...No Team...59.5...2500.0...Win...2500.0
+
+
+Hawaii...20...Washington...52
+Over...No Team...58.0...2500.0...Win...2500.0
+

@@ -1,0 +1,21 @@
+Week 6 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Texas...42...West Virginia...31
+Spread...Texas...-11.0...4000.0...Push...0
+
+
+Northwestern...10...Nebraska...13
+Money Line...Northwestern...225...1500.0...Lose...-1500.0
+
+
+Northwestern...10...Nebraska...13
+Spread...Northwestern...+7.5...1500.0...Win...1500.0
+
+
+Georgia...43...Tennessee...14
+Spread...Georgia...-25.0...3000.0...Win...3000.0
+
