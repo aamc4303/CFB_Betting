@@ -1,0 +1,21 @@
+Week 14 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Washington State...13...Washington...31
+Spread...Washington...-7.0...2000.0...Win...2000.0
+
+
+Navy...56...Houston...41
+Over...No Team...58.5...2500.0...Win...2500.0
+
+
+Baylor...61...Kansas...6
+Spread...Baylor...-14.0...2000.0...Win...2000.0
+
+
+Notre Dame...45...Stanford...24
+Spread...Notre Dame...-16.5...3500.0...Win...3500.0
+

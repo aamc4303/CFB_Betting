@@ -1,0 +1,33 @@
+Week 14 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Wake Forest...30...Syracuse...39
+Spread...Wake Forest...-4.5...1500.0...Lose...-1500.0
+
+
+North Carolina...41...North Carolina State...10
+Spread...North Carolina...-8.0...1500.0...Win...1500.0
+
+
+Fresno State...16...San Jose State...17
+Spread...San Jose State...+2.5...1500.0...Win...1500.0
+
+
+Alabama...45...Auburn...48
+Spread...Auburn...+3.5...1500.0...Win...1500.0
+
+
+Maryland...16...Michigan State...19
+Spread...Michigan State...-22.0...1500.0...Lose...-1500.0
+
+
+Oklahoma...34...Oklahoma State...16
+Spread...Oklahoma State...+13.0...1500.0...Lose...-1500.0
+
+
+Florida State...17...Florida...40
+Spread...Florida State...+17.5...1000.0...Lose...-1000.0
+

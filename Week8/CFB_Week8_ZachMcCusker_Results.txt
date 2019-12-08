@@ -1,0 +1,29 @@
+Week 8 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Clemson...45...Louisville...10
+Over...No Team...60.5...1500.0...Lose...-1500.0
+
+
+Purdue...20...Iowa...26
+Spread...Iowa...-17.5...2000.0...Lose...-2000.0
+
+
+Kent State...38...Ohio...45
+Spread...Ohio...-7.5...1500.0...Lose...-1500.0
+
+
+Kentucky...0...Georgia...21
+Spread...Georgia...-25.0...2000.0...Lose...-2000.0
+
+
+Tennessee...13...Alabama...35
+Over...No Team...61.0...1500.0...Lose...-1500.0
+
+
+Baylor...45...Oklahoma State...27
+Spread...Oklahoma State...-3.5...1500.0...Lose...-1500.0
+

@@ -1,0 +1,57 @@
+Week 8 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+UNLV...27...Fresno State...56
+Money Line...UNLV...550...60.9...Lose...-60.9
+
+
+SUNY-Buffalo...21...Akron...0
+Money Line...Akron...700...274.29...Lose...-274.29
+
+
+Central Michigan...38...Bowling Green State...20
+Spread...Bowling Green State...+11.0...2557.8...Lose...-2557.8
+
+
+Tulsa...13...Cincinnati...24
+Spread...Cincinnati...-17.0...801.11...Lose...-801.11
+
+
+Western Michigan...27...Eastern Michigan...34
+Spread...Western Michigan...-9.0...796.15...Lose...-796.15
+
+
+Kansas...48...Texas...50
+Spread...Texas...-21.5...751.68...Lose...-751.68
+
+
+Arizona...14...Southern Cal...41
+Spread...Southern Cal...-9.5...883.51...Win...883.51
+
+
+LSU...36...Mississippi State...13
+Money Line...Mississippi State...750...548.0...Lose...-548.0
+
+
+Auburn...51...Arkansas...10
+Spread...Auburn...-19.0...789.8...Win...789.8
+
+
+Minnesota...42...Rutgers...7
+Money Line...Rutgers...1700...47.06...Lose...-47.06
+
+
+Louisiana-Monroe...7...Appalachian State...52
+Spread...Appalachian State...-15.0...785.03...Win...785.03
+
+
+Temple...21...Southern Methodist...45
+Spread...Southern Methodist...-7.5...963.32...Win...963.32
+
+
+Michigan...21...Penn State...28
+Spread...Penn State...-9.0...741.35...Lose...-741.35
+

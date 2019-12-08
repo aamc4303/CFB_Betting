@@ -1,0 +1,61 @@
+Week 7 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Colorado...3...Oregon...45
+Spread...Oregon...-20.5...728.78...Win...728.78
+
+
+Georgia Tech...23...Duke...41
+Spread...Duke...-17.5...878.37...Win...878.37
+
+
+Old Dominion...17...Marshall...31
+Spread...Marshall...-15.0...916.74...Lose...-916.74
+
+
+New Mexico State...28...Central Michigan...42
+Spread...Central Michigan...-10.5...983.86...Win...983.86
+
+
+Utah...52...Oregon State...7
+Money Line...Oregon State...425...475.88...Lose...-475.88
+
+
+Mississippi...27...Missouri...38
+Spread...Missouri...-12.0...795.33...Lose...-795.33
+
+
+South Carolina...20...Georgia...17
+Money Line...South Carolina...1100...280.0...Win...3080.0
+
+
+Kent State...26...Akron...3
+Money Line...Akron...425...68.23...Lose...-68.23
+
+
+Arkansas...20...Kentucky...24
+Spread...Kentucky...-7.0...988.21...Lose...-988.21
+
+
+UNLV...34...Vanderbilt...10
+Spread...Vanderbilt...-15.0...829.63...Lose...-829.63
+
+
+Alabama...47...Texas AM...28
+Money Line...Texas AM...550...108.18...Lose...-108.18
+
+
+Middle Tennessee St....13...Florida Atlantic...28
+Spread...Florida Atlantic...-10.5...785.45...Win...785.45
+
+
+UAB...33...Texas-San Antonio...14
+Money Line...Texas-San Antonio...400...1250.0...Lose...-1250.0
+
+
+Southern Cal...27...Notre Dame...30
+Spread...Notre Dame...-11.0...911.34...Lose...-911.34
+

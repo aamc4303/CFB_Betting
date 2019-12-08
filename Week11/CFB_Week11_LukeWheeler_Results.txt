@@ -1,0 +1,25 @@
+Week 11 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Maryland...14...Ohio State...73
+Money Line...Maryland...30000...100.0...Lose...-100.0
+
+
+Penn State...26...Minnesota...31
+Money Line...Minnesota...215...2400.0...Win...5160.0
+
+
+Stanford...13...Colorado...16
+Money Line...Colorado...140...1500.0...Win...2100.0
+
+
+LSU...46...Alabama...41
+Money Line...LSU...200...3500.0...Win...7000.0
+
+
+Iowa State...41...Oklahoma...42
+Spread...Oklahoma...-14.5...2500.0...Lose...-2500.0
+

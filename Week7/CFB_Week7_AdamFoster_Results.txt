@@ -1,0 +1,25 @@
+Week 7 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Oklahoma...34...Texas...27
+Spread...Texas...+11.0...1500.0...Win...1500.0
+
+
+Oklahoma...34...Texas...27
+Over...No Team...75.5...1000.0...Lose...-1000.0
+
+
+Florida...28...LSU...42
+Spread...Florida...+13.5...2500.0...Lose...-2500.0
+
+
+Alabama...47...Texas AM...28
+Spread...Alabama...-16.5...2500.0...Win...2500.0
+
+
+Penn State...17...Iowa...12
+Spread...Penn State...-4.0...2500.0...Win...2500.0
+

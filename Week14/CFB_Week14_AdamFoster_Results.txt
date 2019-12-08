@@ -1,0 +1,21 @@
+Week 14 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Baylor...61...Kansas...6
+Spread...Baylor...-14.0...2500.0...Win...2500.0
+
+
+Ohio State...56...Michigan...27
+Spread...Ohio State...-9.0...2500.0...Win...2500.0
+
+
+Ohio State...56...Michigan...27
+Over...No Team...51.0...2500.0...Win...2500.0
+
+
+Texas AM...7...LSU...50
+Spread...LSU...-17.0...2500.0...Win...2500.0
+

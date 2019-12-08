@@ -1,0 +1,13 @@
+Week 9 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Southern Cal...35...Colorado...31
+Spread...Southern Cal...-13.5...7000.0...Lose...-7000.0
+
+
+Texas...27...Texas Christian...37
+Over...No Team...59.0...3000.0...Win...3000.0
+

@@ -1,0 +1,29 @@
+Week 11 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Notre Dame...38...Duke...7
+Spread...Notre Dame...-8.0...1500.0...Win...1500.0
+
+
+Penn State...26...Minnesota...31
+Spread...Penn State...-6.5...2500.0...Lose...-2500.0
+
+
+LSU...46...Alabama...41
+Money Line...LSU...200...500.0...Win...1000.0
+
+
+LSU...46...Alabama...41
+Spread...LSU...+6.5...2000.0...Win...2000.0
+
+
+Tennessee...17...Kentucky...13
+Spread...Kentucky...-1.0...2000.0...Lose...-2000.0
+
+
+Kansas State...24...Texas...27
+Spread...Kansas State...+7.0...1500.0...Win...1500.0
+

@@ -1,0 +1,25 @@
+Week 13 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Michigan...39...Indiana...14
+Spread...Indiana...+9.0...2000.0...Lose...-2000.0
+
+
+Temple...13...Cincinnati...15
+Spread...Temple...+10.5...2000.0...Win...2000.0
+
+
+UCLA...35...Southern Cal...52
+Spread...UCLA...+13.5...2000.0...Lose...-2000.0
+
+
+Pittsburgh...0...Virginia Tech...28
+Spread...Virginia Tech...-4.0...2000.0...Win...2000.0
+
+
+Tennessee...24...Missouri...20
+Spread...Tennessee...+4.0...2000.0...Win...2000.0
+

@@ -6,6 +6,16 @@ text files and each participant.
 """
 
 import pandas
+from xlutils.copy import copy
+from xlrd import open_workbook
+
+def Write_Scorecard(Week, Values):
+    w = copy(open_workbook('Scorecard_2019.xls'))
+    i = 1
+    for score in Values:
+        w.get_sheet(0).write(int(Week),i,score)
+        i += 1
+    w.save('Scorecard_2019_Copy.xls')
 
 # Result_Write is used to write the bet results to a text file
 def Result_Write(F,Team1,Team1Score,Team2,Team2Score,BetType,BetTeam,BetLine,BetAmount,WinLose,BetNet):
@@ -45,9 +55,7 @@ except:
         print("Score file not found!")
 
 # Define the names of the participants.
-#Names = ['AdamFoster', 'DustinFishelman', 'JeremyMuesing', 'ZachMcCusker', 'AaronMcCusker', 'ZachMaas', 'LukeWheeler']
-
-Names = ['AaronMcCusker']
+Names = ['DustinFishelman', 'AdamFoster', 'ZachMaas', 'AaronMcCusker', 'ZachMcCusker', 'JeremyMuesing', 'LukeWheeler']
 
 # Value will be an array where each item is the net money for each person with the first index corresponding to the first listed person in Names
 Value = [0]
@@ -60,6 +68,7 @@ for N in Names:
 
     # Create the text file that will contain the results for the corresponding participant
     Text_Filename = 'CFB_Week' + str(week_number) + '_' + N + '_Results.txt'
+
     F = open(Text_Filename,"w")
     
     # Put a legend at the top of the text file
@@ -82,6 +91,13 @@ for N in Names:
             continue
     else:
         FileNotFoundError()
+        print("File for " + N + " was not found")
+        # Close the text file you've been writing to
+        F.close()
+
+        # This needs to be the last item in the entire for-loop. It indexes n to the next value so that your Value list is correct       
+        n += 1
+        continue
         
     bets = bets_holder.parse('Sheet1')
     
@@ -106,6 +122,10 @@ for N in Names:
                 Result_Write(F,Team1,Team1Score,Team2,Team2Score,"O/U","Game did not occur","N/A","N/A","Push",'0')
             continue
 
+        # Convert the strings to integers
+        Team1Score = int(Team1Score)
+        Team2Score = int(Team2Score)
+        
         # Check if the person whose excel file you're reading bet on the matchup that you're looking at. This statement checks if the person bet Money Line on the matchup
         if float(bets.loc[i*2]['Bet']) > 0 or float(bets.loc[i*2 + 1]['Bet']) > 0:
             
@@ -535,6 +555,7 @@ for N in Names:
     # This needs to be the last item in the entire for-loop. It indexes n to the next value so that your Value list is correct       
     n += 1
 
+Write_Scorecard(week_number,Value)
 
 
 

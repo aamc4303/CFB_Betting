@@ -1,0 +1,25 @@
+Week 13 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Texas AM...13...Georgia...19
+Spread...Georgia...-13.5...2000.0...Lose...-2000.0
+
+
+Oklahoma State...20...West Virginia...13
+Over...No Team...60.0...2000.0...Lose...-2000.0
+
+
+Southern Methodist...28...Navy...35
+Spread...Navy...-3.5...2000.0...Win...2000.0
+
+
+Southern Methodist...28...Navy...35
+Under...No Team...68.0...2000.0...Win...2000.0
+
+
+Air Force...44...New Mexico...22
+Spread...Air Force...-22.0...2000.0...Push...0
+

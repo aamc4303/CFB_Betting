@@ -1,0 +1,25 @@
+Week 10 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+West Virginia...14...Baylor...17
+Spread...Baylor...-17.5...2000.0...Lose...-2000.0
+
+
+Rutgers...10...Illinois...38
+Spread...Illinois...-20.5...2000.0...Win...2000.0
+
+
+Virginia Tech...20...Notre Dame...21
+Spread...Virginia Tech...+17.5...2000.0...Win...2000.0
+
+
+Georgia...24...Florida...17
+Spread...Florida...+6.5...2000.0...Lose...-2000.0
+
+
+Texas Christian...27...Oklahoma State...34
+Spread...Oklahoma State...-3.0...2000.0...Win...2000.0
+

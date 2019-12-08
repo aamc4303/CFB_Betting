@@ -1,0 +1,9 @@
+Week 11 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+LSU...46...Alabama...41
+Money Line...Alabama...-250...10000.0...Lose...-10000.0
+

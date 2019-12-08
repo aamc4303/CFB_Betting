@@ -1,0 +1,13 @@
+Week 9 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Southern Cal...35...Colorado...31
+Money Line...Southern Cal...-550...5000.0...Win...909.0909090909091
+
+
+Mississippi State...30...Texas AM...49
+Money Line...Texas AM...-400...5000.0...Win...1250.0
+

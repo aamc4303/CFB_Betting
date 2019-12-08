@@ -1,0 +1,21 @@
+Week 10 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Oregon...56...Southern Cal...24
+Spread...Oregon...-5.0...2500.0...Win...2500.0
+
+
+Colorado...14...UCLA...31
+Money Line...Colorado...205...2500.0...Lose...-2500.0
+
+
+Miami (FL)...27...Florida State...10
+Money Line...Miami (FL)...150...2500.0...Win...3750.0
+
+
+Utah...33...Washington...28
+Spread...Utah...-3.5...2500.0...Win...2500.0
+

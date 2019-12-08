@@ -1,0 +1,49 @@
+Week 13 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Colorado State...7...Wyoming...17
+Spread...Wyoming...-6.5...1341.55...Win...1341.55
+
+
+Temple...13...Cincinnati...15
+Spread...Cincinnati...-10.5...1344.35...Lose...-1344.35
+
+
+Texas Christian...24...Oklahoma...28
+Money Line...Texas Christian...800...88.75...Lose...-88.75
+
+
+Minnesota...38...Northwestern...22
+Spread...Minnesota...-13.5...1058.46...Win...1058.46
+
+
+Utah...35...Arizona...7
+Money Line...Arizona...1100...138.18...Lose...-138.18
+
+
+South Alabama...15...Georgia State...28
+Spread...Georgia State...-10.0...1330.28...Win...1330.28
+
+
+Nevada...35...Fresno State...28
+Spread...Fresno State...-13.5...1051.6...Lose...-1051.6
+
+
+Oregon State...53...Washington State...54
+Spread...Washington State...-11.5...1002.21...Lose...-1002.21
+
+
+Central Florida...34...Tulane...31
+Spread...Central Florida...-6.0...984.66...Lose...-984.66
+
+
+Louisiana Tech...14...UAB...20
+Spread...Louisiana Tech...+5.5...1168.63...Lose...-1168.63
+
+
+Penn State...17...Ohio State...28
+Money Line...Penn State...750...491.33...Lose...-491.33
+

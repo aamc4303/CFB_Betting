@@ -1,0 +1,49 @@
+Week 14 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Bowling Green State...7...SUNY-Buffalo...49
+Money Line...Bowling Green State...1612...59.35...Lose...-59.35
+
+
+Virginia Tech...30...Virginia...39
+Spread...Virginia...+3.0...1474.76...Win...1474.76
+
+
+Missouri...24...Arkansas...14
+Spread...Missouri...-12.0...948.67...Lose...-948.67
+
+
+West Virginia...20...Texas Christian...17
+Spread...Texas Christian...-12.5...1120.18...Lose...-1120.18
+
+
+Boise State...31...Colorado State...24
+Spread...Boise State...-13.5...1214.31...Lose...-1214.31
+
+
+Texas State...21...Coastal Carolina...24
+Spread...Coastal Carolina...-7.0...1179.34...Lose...-1179.34
+
+
+Baylor...61...Kansas...6
+Spread...Baylor...-14.0...1159.57...Win...1159.57
+
+
+Clemson...38...South Carolina...3
+Money Line...South Carolina...1900...273.68...Lose...-273.68
+
+
+New Mexico State...28...Liberty...49
+Spread...Liberty...-14.0...1227.45...Win...1227.45
+
+
+Louisville...13...Kentucky...45
+Spread...Kentucky...-3.0...1081.82...Win...1081.82
+
+
+Maryland...16...Michigan State...19
+Money Line...Maryland...1150...260.87...Lose...-260.87
+

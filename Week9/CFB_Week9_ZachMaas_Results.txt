@@ -1,0 +1,21 @@
+Week 9 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Penn State...28...Michigan State...7
+Spread...Penn State...-6.5...3000.0...Win...3000.0
+
+
+Wisconsin...7...Ohio State...38
+Spread...Ohio State...-14.5...3000.0...Win...3000.0
+
+
+Auburn...20...LSU...23
+Money Line...Auburn...310...1000.0...Lose...-1000.0
+
+
+Notre Dame...14...Michigan...45
+Under...No Team...51.0...3000.0...Lose...-3000.0
+

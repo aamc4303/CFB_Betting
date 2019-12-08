@@ -1,0 +1,53 @@
+Week 12 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+West Virginia...24...Kansas State...20
+Spread...Kansas State...-14.0...951.32...Lose...-951.32
+
+
+Indiana...27...Penn State...34
+Spread...Penn State...-14.5...1034.85...Lose...-1034.85
+
+
+Massachusetts...6...Northwestern...45
+Money Line...Massachusetts...20000...90.7...Lose...-90.7
+
+
+Navy...20...Notre Dame...52
+Spread...Notre Dame...-7.5...1056.96...Win...1056.96
+
+
+UTEP...10...UAB...37
+Spread...UAB...-17.0...1001.76...Win...1001.76
+
+
+Kansas...13...Oklahoma State...31
+Spread...Oklahoma State...-17.5...1034.33...Win...1034.33
+
+
+Michigan State...10...Michigan...44
+Spread...Michigan...-13.5...844.28...Win...844.28
+
+
+Rice...31...Middle Tennessee St....28
+Spread...Middle Tennessee St....-14.5...709.53...Lose...-709.53
+
+
+Southern Miss...36...Texas-San Antonio...17
+Spread...Southern Miss...-17.0...786.19...Win...786.19
+
+
+Alabama...38...Mississippi State...7
+Spread...Alabama...-17.5...814.84...Win...814.84
+
+
+Wisconsin...37...Nebraska...21
+Spread...Wisconsin...-14.5...870.23...Win...870.23
+
+
+LSU...58...Mississippi...37
+Spread...LSU...-21.5...805.01...Lose...-805.01
+

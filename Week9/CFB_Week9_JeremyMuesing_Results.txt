@@ -1,0 +1,65 @@
+Week 9 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+San Jose State...34...Army...29
+Spread...Army...-9.0...925.56...Lose...-925.56
+
+
+Eastern Michigan...34...Toledo...37
+Spread...Toledo...-3.5...736.91...Lose...-736.91
+
+
+Iowa...20...Northwestern...0
+Spread...Iowa...-10.5...754.61...Win...754.61
+
+
+California...0...Utah...35
+Money Line...California...1000...309.0...Lose...-309.0
+
+
+Nevada...3...Wyoming...31
+Spread...Wyoming...-14.0...1001.24...Win...1001.24
+
+
+Arizona...31...Stanford...41
+Spread...Stanford...+1.0...847.76...Win...847.76
+
+
+Washington State...35...Oregon...37
+Spread...Oregon...-14.0...819.83...Lose...-819.83
+
+
+Colorado State...41...Fresno State...31
+Spread...Fresno State...-14.0...780.61...Lose...-780.61
+
+
+Florida Atlantic...41...Old Dominion...3
+Spread...Florida Atlantic...-13.5...809.82...Win...809.82
+
+
+Ohio...34...Ball State...21
+Spread...Ball State...-2.5...682.56...Lose...-682.56
+
+
+Oklahoma...41...Kansas State...48
+Money Line...Kansas State...1100...421.82...Win...4640.0199999999995
+
+
+Maryland...10...Minnesota...52
+Money Line...Maryland...600...340.0...Lose...-340.0
+
+
+Texas Tech...34...Kansas...37
+Spread...Texas Tech...-3.5...859.48...Lose...-859.48
+
+
+Louisiana Tech...42...UTEP...21
+Money Line...UTEP...900...44.44...Lose...-44.44
+
+
+Notre Dame...14...Michigan...45
+Spread...Notre Dame...+1.0...666.36...Lose...-666.36
+

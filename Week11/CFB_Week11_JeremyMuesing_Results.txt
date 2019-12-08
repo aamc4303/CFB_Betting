@@ -1,0 +1,37 @@
+Week 11 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Washington...19...Oregon State...7
+Spread...Washington...-10.0...1550.28...Win...1550.28
+
+
+Georgia Tech...28...Virginia...33
+Spread...Virginia...-16.0...1799.53...Lose...-1799.53
+
+
+Maryland...14...Ohio State...73
+Money Line...Maryland...30000...46.93...Lose...-46.93
+
+
+Connecticut...3...Cincinnati...48
+Money Line...Connecticut...8000...16.75...Lose...-16.75
+
+
+Illinois...37...Michigan State...34
+Spread...Michigan State...-14.5...1636.4...Lose...-1636.4
+
+
+Liberty...24...BYU...31
+Spread...BYU...-17.0...1595.48...Lose...-1595.48
+
+
+East Carolina...51...Southern Methodist...59
+Spread...Southern Methodist...-21.5...1541.99...Lose...-1541.99
+
+
+Nevada...17...San Diego State...13
+Spread...San Diego State...-17.0...1812.64...Lose...-1812.64
+

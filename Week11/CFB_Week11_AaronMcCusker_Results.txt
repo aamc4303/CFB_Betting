@@ -1,0 +1,21 @@
+Week 11 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Penn State...26...Minnesota...31
+Spread...Penn State...-6.5...2500.0...Lose...-2500.0
+
+
+Stanford...13...Colorado...16
+Money Line...Colorado...140...2500.0...Win...3500.0
+
+
+Southern Cal...31...Arizona State...26
+Money Line...Southern Cal...105...2500.0...Win...2625.0
+
+
+Baylor...29...Texas Christian...23
+Spread...Baylor...-2.5...2500.0...Win...2500.0
+

@@ -1,0 +1,25 @@
+Week 13 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Washington...14...Colorado...20
+Spread...Colorado...+14.5...2000.0...Win...2000.0
+
+
+UCLA...35...Southern Cal...52
+Spread...Southern Cal...-13.5...2000.0...Win...2000.0
+
+
+Oregon State...53...Washington State...54
+Money Line...Oregon State...300...2000.0...Lose...-2000.0
+
+
+Texas...10...Baylor...24
+Over...No Team...59.5...2000.0...Lose...-2000.0
+
+
+Penn State...17...Ohio State...28
+Spread...Ohio State...-18.0...2000.0...Lose...-2000.0
+

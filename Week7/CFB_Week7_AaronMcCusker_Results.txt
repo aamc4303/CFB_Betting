@@ -1,0 +1,33 @@
+Week 7 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Oklahoma...34...Texas...27
+Spread...Oklahoma...-11.0...2000.0...Lose...-2000.0
+
+
+Utah...52...Oregon State...7
+Money Line...Oregon State...425...1000.0...Lose...-1000.0
+
+
+Washington...51...Arizona...27
+Spread...Washington...-6.5...2000.0...Win...2000.0
+
+
+Florida...28...LSU...42
+Money Line...Florida...380...1000.0...Lose...-1000.0
+
+
+Alabama...47...Texas AM...28
+Spread...Alabama...-16.5...2000.0...Win...2000.0
+
+
+Southern Cal...27...Notre Dame...30
+Money Line...Southern Cal...320...1000.0...Lose...-1000.0
+
+
+Penn State...17...Iowa...12
+Money Line...Iowa...160...1000.0...Lose...-1000.0
+

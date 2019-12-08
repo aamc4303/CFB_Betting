@@ -1,0 +1,33 @@
+Week 10 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Nebraska...27...Purdue...31
+Money Line...Purdue...120...1000.0...Win...1200.0
+
+
+SUNY-Buffalo...43...Eastern Michigan...14
+Money Line...SUNY-Buffalo...105...1000.0...Win...1050.0
+
+
+Oregon...56...Southern Cal...24
+Over...No Team...63.0...2000.0...Win...2000.0
+
+
+Colorado...14...UCLA...31
+Money Line...Colorado...205...2000.0...Lose...-2000.0
+
+
+Southern Methodist...48...Memphis...54
+Spread...Memphis...-5.5...1000.0...Win...1000.0
+
+
+Georgia...24...Florida...17
+Money Line...Florida...185...1000.0...Lose...-1000.0
+
+
+Utah...33...Washington...28
+Money Line...Washington...145...2000.0...Lose...-2000.0
+

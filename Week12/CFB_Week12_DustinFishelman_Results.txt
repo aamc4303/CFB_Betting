@@ -1,0 +1,9 @@
+Week 12 Results
+
+Team 1 ... Team 1 Score ... Team 2 ... Team 2 Score ...
+Bet Type ... Bet Team ... Bet Line ... Bet Amount ... Win or Lose ... Bet Net
+
+
+Minnesota...19...Iowa...23
+Spread...Minnesota...+3.0...10000.0...Lose...-10000.0
+
